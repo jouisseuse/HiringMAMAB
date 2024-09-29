@@ -1,0 +1,422 @@
+[
+    {
+        "Candidate_0": {
+            "Sex": "Male",
+            "Race": "White",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_1": {
+            "Sex": "Male",
+            "Race": "White",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_2": {
+            "Sex": "Male",
+            "Race": "White",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_3": {
+            "Sex": "Male",
+            "Race": "White",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_4": {
+            "Sex": "Male",
+            "Race": "White",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_5": {
+            "Sex": "Male",
+            "Race": "Black",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_6": {
+            "Sex": "Male",
+            "Race": "Black",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_7": {
+            "Sex": "Male",
+            "Race": "Black",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_8": {
+            "Sex": "Male",
+            "Race": "Black",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_9": {
+            "Sex": "Male",
+            "Race": "Black",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_10": {
+            "Sex": "Male",
+            "Race": "Hispanic",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_11": {
+            "Sex": "Male",
+            "Race": "Hispanic",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_12": {
+            "Sex": "Male",
+            "Race": "Hispanic",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_13": {
+            "Sex": "Male",
+            "Race": "Hispanic",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_14": {
+            "Sex": "Male",
+            "Race": "Hispanic",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_15": {
+            "Sex": "Male",
+            "Race": "Asian",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_16": {
+            "Sex": "Male",
+            "Race": "Asian",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_17": {
+            "Sex": "Male",
+            "Race": "Asian",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_18": {
+            "Sex": "Male",
+            "Race": "Asian",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_19": {
+            "Sex": "Male",
+            "Race": "Asian",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_20": {
+            "Sex": "Male",
+            "Race": "Native American",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_21": {
+            "Sex": "Male",
+            "Race": "Native American",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_22": {
+            "Sex": "Male",
+            "Race": "Native American",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_23": {
+            "Sex": "Male",
+            "Race": "Native American",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_24": {
+            "Sex": "Male",
+            "Race": "Native American",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_25": {
+            "Sex": "Male",
+            "Race": "Pacific Islander",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_26": {
+            "Sex": "Male",
+            "Race": "Pacific Islander",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_27": {
+            "Sex": "Male",
+            "Race": "Pacific Islander",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_28": {
+            "Sex": "Male",
+            "Race": "Pacific Islander",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_29": {
+            "Sex": "Male",
+            "Race": "Pacific Islander",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_30": {
+            "Sex": "Female",
+            "Race": "White",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_31": {
+            "Sex": "Female",
+            "Race": "White",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_32": {
+            "Sex": "Female",
+            "Race": "White",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_33": {
+            "Sex": "Female",
+            "Race": "White",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_34": {
+            "Sex": "Female",
+            "Race": "White",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_35": {
+            "Sex": "Female",
+            "Race": "Black",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_36": {
+            "Sex": "Female",
+            "Race": "Black",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_37": {
+            "Sex": "Female",
+            "Race": "Black",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_38": {
+            "Sex": "Female",
+            "Race": "Black",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_39": {
+            "Sex": "Female",
+            "Race": "Black",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_40": {
+            "Sex": "Female",
+            "Race": "Hispanic",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_41": {
+            "Sex": "Female",
+            "Race": "Hispanic",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_42": {
+            "Sex": "Female",
+            "Race": "Hispanic",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_43": {
+            "Sex": "Female",
+            "Race": "Hispanic",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_44": {
+            "Sex": "Female",
+            "Race": "Hispanic",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_45": {
+            "Sex": "Female",
+            "Race": "Asian",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_46": {
+            "Sex": "Female",
+            "Race": "Asian",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_47": {
+            "Sex": "Female",
+            "Race": "Asian",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_48": {
+            "Sex": "Female",
+            "Race": "Asian",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_49": {
+            "Sex": "Female",
+            "Race": "Asian",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_50": {
+            "Sex": "Female",
+            "Race": "Native American",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_51": {
+            "Sex": "Female",
+            "Race": "Native American",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_52": {
+            "Sex": "Female",
+            "Race": "Native American",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_53": {
+            "Sex": "Female",
+            "Race": "Native American",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_54": {
+            "Sex": "Female",
+            "Race": "Native American",
+            "Age": "56-65"
+        }
+    },
+    {
+        "Candidate_55": {
+            "Sex": "Female",
+            "Race": "Pacific Islander",
+            "Age": "18-25"
+        }
+    },
+    {
+        "Candidate_56": {
+            "Sex": "Female",
+            "Race": "Pacific Islander",
+            "Age": "26-35"
+        }
+    },
+    {
+        "Candidate_57": {
+            "Sex": "Female",
+            "Race": "Pacific Islander",
+            "Age": "36-45"
+        }
+    },
+    {
+        "Candidate_58": {
+            "Sex": "Female",
+            "Race": "Pacific Islander",
+            "Age": "46-55"
+        }
+    },
+    {
+        "Candidate_59": {
+            "Sex": "Female",
+            "Race": "Pacific Islander",
+            "Age": "56-65"
+        }
+    }
+]

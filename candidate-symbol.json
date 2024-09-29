@@ -1,0 +1,21 @@
+{
+    "category#1": {
+        "feature#1": 1,
+        "feature#2": 1
+    },
+    "category#2": {
+        "feature#3": 1,
+        "feature#4": 1,
+        "feature#5": 1,
+        "feature#6": 1,
+        "feature#7": 1,
+        "feature#8": 1
+    },
+    "category#3": {
+        "feature#9": 1,
+        "feature#10": 1,
+        "feature#11": 1,
+        "feature#12": 1,
+        "feature#13": 1
+    }
+}

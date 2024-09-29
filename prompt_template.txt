@@ -1,0 +1,117 @@
+
+// distributed Candidate
+{
+    "role": "system",
+    "content": "You are a job candidate with [feature#1, feature#3] in a hiring game. Your goal is to get hired as often as possible by choosing which firm (F1-F4) to apply to each round. After each round, you'll get feedback on whether you were hired, helping you make future decisions. "
+},
+{
+    "role": "assistant",
+    "content": "F1."
+},
+{
+    "role": "user",
+    "content": "
+    In the last round, you applied to F1 and you were hired. 
+    Summary of hiring results across all rounds:
+    C1:
+        F1 - Hired: 1 times, Not Hired: 0 times
+        F2 - Hired: 0 times, Not Hired: 0 times
+        F3 - Hired: 0 times, Not Hired: 0 times
+        F4 - Hired: 0 times, Not Hired: 0 times
+    Choose a firm and briefly explain why."
+},...
+
+
+// decentralized Candidate
+{
+    "role": "system",
+    "content": "You are a job candidate C1 with [feature#1, feature#3] in a hiring game. Other candidates have the following features: C2: [feature#1, feature#4]. C3: [feature#2, feature#3]. C4: [feature#2, feature#4]. Your goal is to get hired as often as possible by choosing which firm (F1-F4) to apply to each round. After each round, you'll get feedback on all candidates hiring results, helping you make future decisions. "
+},
+{
+    "role": "assistant",
+    "content": "F1."
+},
+{
+    "role": "user",
+    "content": "In the last round, you applied to F1 and you were not hired. Here are the results of other candidates: C2 applied to F1 and hired. C3 applied to F1 and not hired. C4 applied to F1 and hired. 
+    Summary of hiring results across all rounds:
+    Candidate Hire Summary:
+    C1 [feature#1,feature#3]:
+        F1 - Hired: 1 times, Not Hired: 1 times
+        F2 - Hired: 0 times, Not Hired: 0 times
+        F3 - Hired: 0 times, Not Hired: 0 times
+        F4 - Hired: 0 times, Not Hired: 0 times
+    C2 [feature#1,feature#4]:
+        F1 - Hired: 1 times, Not Hired: 0 times
+        F2 - Hired: 1 times, Not Hired: 0 times
+        F3 - Hired: 0 times, Not Hired: 0 times
+        F4 - Hired: 0 times, Not Hired: 0 times
+    C3 [feature#2,feature#3]:
+        F1 - Hired: 0 times, Not Hired: 1 times
+        F2 - Hired: 0 times, Not Hired: 0 times
+        F3 - Hired: 1 times, Not Hired: 0 times
+        F4 - Hired: 0 times, Not Hired: 0 times
+    C4 [feature#2,feature#4]:
+        F1 - Hired: 0 times, Not Hired: 0 times
+        F2 - Hired: 0 times, Not Hired: 0 times
+        F3 - Hired: 0 times, Not Hired: 0 times
+        F4 - Hired: 2 times, Not Hired: 0 times
+    Choose a firm and briefly explain why."
+},...
+
+// distributed firm
+{
+    "role": "system",
+    "content": "You are an HR representative in a hiring game. Your firm is: ['type#1 (90%)', 'type#2 (10%)']. Your goal is to improve your firm's performance by selecting the best candidate each round. After each round, you'll get feedback on the hired candidate's performance. "
+},
+{
+    "role": "assistant",
+    "content": "C1"
+},
+{
+    "role": "user",
+    "content": "In the last round, you hired C1 and their performance was 5.455103240615498. 
+    Summary of hiring results across all rounds:
+    F1:
+        C1 [feature#1,feature#3] - Rewards: [6.0, 2.724869557914624, 4.90953577851723, 4.055882806850143, 2.0010425439186164, 5.359058524428994, 4.288393614681436, 3.456529101112557, 5.034748327159413, 3.0282467747443835, 2.935460200226254, 4.967890501754532, 5.455103240615498]
+        C2 [feature#1,feature#4] - Rewards: []
+        C3 [feature#2,feature#3] - Rewards: []
+        C4 [feature#2,feature#4] - Rewards: []
+    Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate and briefly explain why."
+},...
+
+// decentralized firm
+{
+    "role": "system",
+    "content": "You are an HR representative in a hiring game. Your firm F1 is: ['type#1 (90%)', 'type#2 (10%)']. Other firm has the following features: F2: ['type#1 (60%)', 'type#2 (40%)']. F3: ['type#1 (40%)', 'type#2 (60%)']. F4: ['type#1 (10%)', 'type#2 (90%)']. Your goal is to improve your firm's performance by selecting the best candidate each round. After each round, you'll get feedback on the hired candidate's performance of all firms. "
+},
+{
+    "role": "assistant",
+    "content": "C2"
+},
+{
+    "role": "user",
+    "content": "In the last round, you hired C2 and performance was 5.704924332663064. Here are the results of other firms: F2 hired C3 with feature [feature#2, feature#3] and performance was 3.821649498301831.F3 hired C4 with feature [feature#2, feature#4] and performance was 2.5732215668092664.F4 hired C1 with feature [feature#1, feature#3] and performance was 3.8090926047394498.
+    Summary of hiring results across all rounds: Firm Rewards Summary:
+    F1 ['type#1 (90%)', 'type#2 (10%)']:
+        C1 [feature#1,feature#3] - Rewards: [6.0, 5.444336306175942]
+        C2 [feature#1,feature#4] - Rewards: [4.611490321518272, 5.704924332663064]
+        C3 [feature#2,feature#3] - Rewards: []
+        C4 [feature#2,feature#4] - Rewards: [5.152825581232428]
+    F2 ['type#1 (60%)', 'type#2 (40%)']:
+        C1 [feature#1,feature#3] - Rewards: [4.5886917554453515]
+        C2 [feature#1,feature#4] - Rewards: [6.0, 3.04490492577724]
+        C3 [feature#2,feature#3] - Rewards: [5.013410505286284, 3.821649498301831]
+        C4 [feature#2,feature#4] - Rewards: []
+    F3 ['type#1 (40%)', 'type#2 (60%)']:
+        C1 [feature#1,feature#3] - Rewards: [3.550452466034737]
+        C2 [feature#1,feature#4] - Rewards: []
+        C3 [feature#2,feature#3] - Rewards: [6.0, 4.921718642147427]
+        C4 [feature#2,feature#4] - Rewards: [2.5732215668092664]
+    F4 ['type#1 (10%)', 'type#2 (90%)']:
+        C1 [feature#1,feature#3] - Rewards: [3.8090926047394498]
+        C2 [feature#1,feature#4] - Rewards: [3.9508500681576972]
+        C3 [feature#2,feature#3] - Rewards: [3.351169986446025]
+        C4 [feature#2,feature#4] - Rewards: [6.0, 2.5319019920515435]
+    In this round, there are no candidates who applied. You do not need to choose."
+},

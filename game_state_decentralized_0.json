@@ -1,0 +1,2179 @@
+{
+    "all_application_features": {
+        "0": [
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "1": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ]
+        ],
+        "2": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ]
+        ],
+        "3": [
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ]
+        ]
+    },
+    "all_offer_features": {
+        "0": [
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ]
+        ],
+        "1": [
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ]
+        ],
+        "2": [
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ]
+        ],
+        "3": [
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ],
+            [
+                0,
+                1,
+                1,
+                0
+            ],
+            [
+                1,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                1
+            ]
+        ]
+    },
+    "candidate_results": {
+        "1": [
+            1,
+            1
+        ],
+        "2": [
+            2,
+            1
+        ],
+        "3": [
+            3,
+            1
+        ],
+        "4": [
+            4,
+            1
+        ]
+    },
+    "firm_results": {
+        "1": [
+            1,
+            4.9580464582508466
+        ],
+        "2": [
+            2,
+            4.0071543593138115
+        ],
+        "3": [
+            3,
+            3.521392861706133
+        ],
+        "4": [
+            4,
+            5.253937107347444
+        ]
+    },
+    "candidate_messages": [
+        [
+            {
+                "role": "system",
+                "content": "You are a job candidate C1 with [feature#1, feature#3] in a hiring game. Other candidates have the following features: C2: [feature#1, feature#4]. C3: [feature#2, feature#3]. C4: [feature#2, feature#4]. Your goal is to get hired as often as possible by choosing which firm (F1-F4) to apply to each round. After each round, you'll get feedback on all candidates hiring results, helping you make future decisions. "
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C2 applied to F1 and hired. C3 applied to F1 and hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C2 applied to F2 and hired. C3 applied to F2 and not hired. C4 applied to F2 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C2 applied to F3 and not hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C2 applied to F4 and not hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C2 applied to F1 and hired. C3 applied to F1 and hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C2 applied to F2 and hired. C3 applied to F2 and not hired. C4 applied to F2 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C2 applied to F3 and not hired. C3 applied to F3 and hired. C4 applied to F3 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C2 applied to F4 and hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C2 applied to F1 and hired. C3 applied to F1 and hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were not hired. Here are the results of other candidates: C2 applied to F2 and not hired. C3 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were not hired. Here are the results of other candidates: C2 applied to F3 and not hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C2 applied to F4 and hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C2 applied to F1 and hired. C3 applied to F1 and hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were not hired. Here are the results of other candidates: C2 applied to F2 and hired. C3 applied to F2 and not hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were not hired. Here are the results of other candidates: C2 applied to F3 and not hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C2 applied to F4 and hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C2 applied to F1 and hired. C3 applied to F1 and hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were not hired. Here are the results of other candidates: C2 applied to F2 and not hired. C3 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were not hired. Here are the results of other candidates: C2 applied to F3 and not hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C2 applied to F4 and hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a job candidate C2 with [feature#1, feature#4] in a hiring game. Other candidates have the following features: C1: [feature#1, feature#3]. C3: [feature#2, feature#3]. C4: [feature#2, feature#4]. Your goal is to get hired as often as possible by choosing which firm (F1-F4) to apply to each round. After each round, you'll get feedback on all candidates hiring results, helping you make future decisions. "
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C3 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and hired. C3 applied to F1 and not hired. C4 applied to F1 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were not hired. Here are the results of other candidates: C1 applied to F4 and hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were not hired. Here are the results of other candidates: C1 applied to F3 and hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C3 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and hired. C3 applied to F1 and not hired. C4 applied to F1 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were not hired. Here are the results of other candidates: C1 applied to F4 and hired. C3 applied to F4 and hired. C4 applied to F4 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C3 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were not hired. Here are the results of other candidates: C1 applied to F1 and not hired. C3 applied to F1 and hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were not hired. Here are the results of other candidates: C1 applied to F4 and not hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C3 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and not hired. C3 applied to F1 and not hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were not hired. Here are the results of other candidates: C1 applied to F4 and not hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C3 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were not hired. Here are the results of other candidates: C1 applied to F1 and not hired. C3 applied to F1 and hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were not hired. Here are the results of other candidates: C1 applied to F4 and not hired. C3 applied to F4 and hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C3 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a job candidate C3 with [feature#2, feature#3] in a hiring game. Other candidates have the following features: C1: [feature#1, feature#3]. C2: [feature#1, feature#4]. C4: [feature#2, feature#4]. Your goal is to get hired as often as possible by choosing which firm (F1-F4) to apply to each round. After each round, you'll get feedback on all candidates hiring results, helping you make future decisions. "
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C2 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were not hired. Here are the results of other candidates: C1 applied to F1 and hired. C2 applied to F1 and hired. C4 applied to F1 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and hired. C2 applied to F4 and not hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and not hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C2 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were not hired. Here are the results of other candidates: C1 applied to F1 and hired. C2 applied to F1 and hired. C4 applied to F1 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and hired. C2 applied to F4 and not hired. C4 applied to F4 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C2 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and not hired. C2 applied to F1 and not hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and not hired. C2 applied to F4 and not hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C2 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were not hired. Here are the results of other candidates: C1 applied to F1 and not hired. C2 applied to F1 and hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and not hired. C2 applied to F4 and not hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C2 applied to F3 and hired. C4 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and not hired. C2 applied to F1 and not hired. C4 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and not hired. C2 applied to F4 and not hired. C4 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and hired. C4 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are a job candidate C4 with [feature#2, feature#4] in a hiring game. Other candidates have the following features: C1: [feature#1, feature#3]. C2: [feature#1, feature#4]. C3: [feature#2, feature#3]. Your goal is to get hired as often as possible by choosing which firm (F1-F4) to apply to each round. After each round, you'll get feedback on all candidates hiring results, helping you make future decisions. "
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and hired. C2 applied to F4 and hired. C3 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were not hired. Here are the results of other candidates: C1 applied to F1 and hired. C2 applied to F1 and hired. C3 applied to F1 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and not hired. C3 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and hired. C2 applied to F3 and not hired. C3 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and hired. C2 applied to F4 and hired. C3 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were not hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and hired. C3 applied to F2 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were not hired. Here are the results of other candidates: C1 applied to F3 and hired. C2 applied to F3 and not hired. C3 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and hired. C2 applied to F1 and hired. C3 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and hired. C2 applied to F4 and hired. C3 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and not hired. C3 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and not hired. C2 applied to F3 and not hired. C3 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and hired. C2 applied to F1 and hired. C3 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and hired. C2 applied to F4 and hired. C3 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and hired. C3 applied to F2 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and not hired. C2 applied to F3 and not hired. C3 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and hired. C2 applied to F1 and hired. C3 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F4."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F4 and you were hired. Here are the results of other candidates: C1 applied to F4 and hired. C2 applied to F4 and hired. C3 applied to F4 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F2."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and not hired. C3 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F3."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F3 and you were hired. Here are the results of other candidates: C1 applied to F3 and not hired. C2 applied to F3 and not hired. C3 applied to F3 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "F1."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were hired. Here are the results of other candidates: C1 applied to F1 and hired. C2 applied to F1 and hired. C3 applied to F1 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            }
+        ]
+    ],
+    "firm_messages": [
+        [
+            {
+                "role": "system",
+                "content": "You are an HR representative in a hiring game. Your firm F1 is: ['type#1 (90%)', 'type#2 (10%)']. Other firm has the following features: F2: ['type#1 (60%)', 'type#2 (40%)']. F3: ['type#1 (40%)', 'type#2 (60%)']. F4: ['type#1 (10%)', 'type#2 (90%)']. Your goal is to improve your firm's performance by selecting the best candidate each round. After each round, you'll get feedback on the hired candidate's performance of all firms. "
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was A. Here are the results of other firms: F2 hired C2 with feature [feature#1, feature#4] and performance was A.F3 hired C3 with feature [feature#2, feature#3] and performance was A.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F1 and you were not hired. Here are the results of other candidates: C1 applied to F1 and hired. C2 applied to F1 and hired. C3 applied to F1 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C0"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and not hired. C3 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F2 hired C3 with feature [feature#2, feature#3] and performance was A.F3 hired C4 with feature [feature#2, feature#4] and performance was C.F4 hired C1 with feature [feature#1, feature#3] and performance was D..Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was D. Here are the results of other firms: F2 hired C2 with feature [feature#1, feature#4] and performance was B.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was D.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were not hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and hired. C3 applied to F2 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F3 hired C1 with feature [feature#1, feature#3] and performance was A.F4 hired C3 with feature [feature#2, feature#3] and performance was B..Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was D. Here are the results of other firms: F2 hired C3 with feature [feature#2, feature#3] and performance was D.F3 hired C2 with feature [feature#1, feature#4] and performance was A.F4 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was B. Here are the results of other firms: F2 hired C2 with feature [feature#1, feature#4] and performance was C.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and not hired. C3 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was B.F4 hired C3 with feature [feature#2, feature#3] and performance was A..Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was A. Here are the results of other firms: F2 hired C3 with feature [feature#2, feature#3] and performance was D.F3 hired C2 with feature [feature#1, feature#4] and performance was D.F4 hired C1 with feature [feature#1, feature#3] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was D. Here are the results of other firms: F2 hired C2 with feature [feature#1, feature#4] and performance was B.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and hired. C3 applied to F2 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was C.F4 hired C3 with feature [feature#2, feature#3] and performance was A..Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was D. Here are the results of other firms: F2 hired C3 with feature [feature#2, feature#3] and performance was A.F3 hired C2 with feature [feature#1, feature#4] and performance was B.F4 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was D. Here are the results of other firms: F2 hired C2 with feature [feature#1, feature#4] and performance was C.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was C.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and not hired. C3 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was D.F4 hired C3 with feature [feature#2, feature#3] and performance was D..Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was B. Here are the results of other firms: F2 hired C3 with feature [feature#2, feature#3] and performance was B.F3 hired C2 with feature [feature#1, feature#4] and performance was D.F4 hired C1 with feature [feature#1, feature#3] and performance was C.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are an HR representative in a hiring game. Your firm F2 is: ['type#1 (60%)', 'type#2 (40%)']. Other firm has the following features: F1: ['type#1 (90%)', 'type#2 (10%)']. F3: ['type#1 (40%)', 'type#2 (60%)']. F4: ['type#1 (10%)', 'type#2 (90%)']. Your goal is to improve your firm's performance by selecting the best candidate each round. After each round, you'll get feedback on the hired candidate's performance of all firms. "
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was A. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was A.F3 hired C3 with feature [feature#2, feature#3] and performance was A.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was B. Here are the results of other firms: F1 hired C2 with feature [feature#1, feature#4] and performance was D.Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was D. Here are the results of other firms: F3 hired C1 with feature [feature#1, feature#3] and performance was D.F4 hired C3 with feature [feature#2, feature#3] and performance was B.Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was A. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was C.F4 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was B. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was D.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were not hired. Here are the results of other candidates: C1 applied to F2 and hired. C2 applied to F2 and hired. C3 applied to F2 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F3 hired C1 with feature [feature#1, feature#3] and performance was A.F4 hired C3 with feature [feature#2, feature#3] and performance was B..Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was D. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was D.F3 hired C2 with feature [feature#1, feature#4] and performance was A.F4 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was C. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was B.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and not hired. C3 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was B.F4 hired C3 with feature [feature#2, feature#3] and performance was A..Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was D. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was A.F3 hired C2 with feature [feature#1, feature#4] and performance was D.F4 hired C1 with feature [feature#1, feature#3] and performance was A.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was B. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and hired. C3 applied to F2 and not hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was C.F4 hired C3 with feature [feature#2, feature#3] and performance was A..Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was A. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was D.F3 hired C2 with feature [feature#1, feature#4] and performance was B.F4 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was C. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was C.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you applied to F2 and you were hired. Here are the results of other candidates: C1 applied to F2 and not hired. C2 applied to F2 and not hired. C3 applied to F2 and hired. . Choose a firm. Respond with the firm ID (e.g., F1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was D.F4 hired C3 with feature [feature#2, feature#3] and performance was D..Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was B. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was B.F3 hired C2 with feature [feature#1, feature#4] and performance was D.F4 hired C1 with feature [feature#1, feature#3] and performance was C.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are an HR representative in a hiring game. Your firm F3 is: ['type#1 (40%)', 'type#2 (60%)']. Other firm has the following features: F1: ['type#1 (90%)', 'type#2 (10%)']. F2: ['type#1 (60%)', 'type#2 (40%)']. F4: ['type#1 (10%)', 'type#2 (90%)']. Your goal is to improve your firm's performance by selecting the best candidate each round. After each round, you'll get feedback on the hired candidate's performance of all firms. "
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was A. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was A.F3 hired C3 with feature [feature#2, feature#3] and performance was A.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C2 with feature [feature#1, feature#4] and performance was D.F2 hired C1 with feature [feature#1, feature#3] and performance was B..Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was D. Here are the results of other firms: F2 hired C4 with feature [feature#2, feature#4] and performance was D.F4 hired C3 with feature [feature#2, feature#3] and performance was B.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was C. Here are the results of other firms: F2 hired C3 with feature [feature#2, feature#3] and performance was A.F4 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was B. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was D.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C2 with feature [feature#1, feature#4] and performance was B.F2 hired C1 with feature [feature#1, feature#3] and performance was A..Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was A. Here are the results of other firms: F4 hired C3 with feature [feature#2, feature#3] and performance was B.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was A. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was D.F2 hired C3 with feature [feature#2, feature#3] and performance was D.F4 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was C. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was B.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C3 with feature [feature#2, feature#3] and performance was A.F2 hired C4 with feature [feature#2, feature#4] and performance was A..Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was B. Here are the results of other firms: F4 hired C3 with feature [feature#2, feature#3] and performance was A.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was D. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was A.F2 hired C3 with feature [feature#2, feature#3] and performance was D.F4 hired C1 with feature [feature#1, feature#3] and performance was A.Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was B. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C2 with feature [feature#1, feature#4] and performance was C.F2 hired C4 with feature [feature#2, feature#4] and performance was B..Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was C. Here are the results of other firms: F4 hired C3 with feature [feature#2, feature#3] and performance was A.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was B. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was D.F2 hired C3 with feature [feature#2, feature#3] and performance was A.F4 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was C. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was C.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C3 with feature [feature#2, feature#3] and performance was A.F2 hired C4 with feature [feature#2, feature#4] and performance was C..Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C4 and performance was D. Here are the results of other firms: F4 hired C3 with feature [feature#2, feature#3] and performance was D.Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C2"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was D. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was B.F2 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C1 with feature [feature#1, feature#3] and performance was C.Here are the candidates who applied in this round: ['C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            }
+        ],
+        [
+            {
+                "role": "system",
+                "content": "You are an HR representative in a hiring game. Your firm F4 is: ['type#1 (10%)', 'type#2 (90%)']. Other firm has the following features: F1: ['type#1 (90%)', 'type#2 (10%)']. F2: ['type#1 (60%)', 'type#2 (40%)']. F3: ['type#1 (40%)', 'type#2 (60%)']. Your goal is to improve your firm's performance by selecting the best candidate each round. After each round, you'll get feedback on the hired candidate's performance of all firms. "
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was A. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was A.F3 hired C3 with feature [feature#2, feature#3] and performance was A.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C2 with feature [feature#1, feature#4] and performance was D.F2 hired C1 with feature [feature#1, feature#3] and performance was B..Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was B. Here are the results of other firms: F2 hired C4 with feature [feature#2, feature#4] and performance was D.F3 hired C1 with feature [feature#1, feature#3] and performance was D.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was D. Here are the results of other firms: F2 hired C3 with feature [feature#2, feature#3] and performance was A.F3 hired C4 with feature [feature#2, feature#4] and performance was C.Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was B. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was D.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C2 with feature [feature#1, feature#4] and performance was B.F2 hired C1 with feature [feature#1, feature#3] and performance was A..Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was B. Here are the results of other firms: F3 hired C1 with feature [feature#1, feature#3] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was D. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was D.F2 hired C3 with feature [feature#2, feature#3] and performance was D.F3 hired C2 with feature [feature#1, feature#4] and performance was A.Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was C. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was B.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C3 with feature [feature#2, feature#3] and performance was A.F2 hired C4 with feature [feature#2, feature#4] and performance was A..Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was A. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was B.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was A. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was A.F2 hired C3 with feature [feature#2, feature#3] and performance was D.F3 hired C2 with feature [feature#1, feature#4] and performance was D.Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was B. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was A.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C2 with feature [feature#1, feature#4] and performance was C.F2 hired C4 with feature [feature#2, feature#4] and performance was B..Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was A. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was C.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was D. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was D.F2 hired C3 with feature [feature#2, feature#3] and performance was A.F3 hired C2 with feature [feature#1, feature#4] and performance was B.Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C4"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C2 and performance was C. Here are the results of other firms: F1 hired C1 with feature [feature#1, feature#3] and performance was D.F3 hired C3 with feature [feature#2, feature#3] and performance was B.F4 hired C4 with feature [feature#2, feature#4] and performance was C.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ', 'C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "user",
+                "content": "In the last round, there were no candidates who applied, so you hired no one. Here are the results of other firms: F1 hired C3 with feature [feature#2, feature#3] and performance was A.F2 hired C4 with feature [feature#2, feature#4] and performance was C..Here are the candidates who applied in this round: ['C2:[feature#1, feature#4] ', 'C3:[feature#2, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C3"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C3 and performance was D. Here are the results of other firms: F3 hired C4 with feature [feature#2, feature#4] and performance was D.Here are the candidates who applied in this round: ['C1:[feature#1, feature#3] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            },
+            {
+                "role": "assistant",
+                "content": "C1"
+            },
+            {
+                "role": "user",
+                "content": "In the last round, you hired C1 and performance was C. Here are the results of other firms: F1 hired C4 with feature [feature#2, feature#4] and performance was B.F2 hired C3 with feature [feature#2, feature#3] and performance was B.F3 hired C2 with feature [feature#1, feature#4] and performance was D.Here are the candidates who applied in this round: ['C4:[feature#2, feature#4] ']. Choose a candidate. Respond only with the ID (e.g., C1)."
+            }
+        ]
+    ],
+    "current_round": 20
+}

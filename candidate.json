@@ -1,0 +1,21 @@
+{
+    "Sex": {
+        "Male": 1,
+        "Female": 1
+    },
+    "Race": {
+        "White": 1,
+        "Black": 1,
+        "Hispanic": 1,
+        "Asian": 1,
+        "Native American": 1,
+        "Pacific Islander": 1
+    },
+    "Age": {
+        "18-25": 1,
+        "26-35": 1,
+        "36-45": 1,
+        "46-55": 1,
+        "56-65": 1
+    }
+}

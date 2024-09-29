@@ -1,0 +1,32 @@
+1. 确认是否有思考过程
+    it has some exploration and exploitation when they output more
+    C: "i like to diversity my decision" "helping me adapt my strategy."
+    F: find the relation between features of candidates
+2. 将prompt改为group based
+3. scope变大到60个
+
+20 rounds -> 40 rounds
+scope放大到60
+我们的simulation scope放小到4
+
+store:
+llm-exp/result_dir/log_20240907_112016_distributed:90
+llm-exp/result_dir/log_20240908_073958_decentralized:90
+
+21-25:llm-exp/result_dir/log_20240908_213205_distributed
+25-40:llm-exp/result_dir/log_20240908_225253_distributed
+25-40:llm-exp/result_dir/log_20240909_003929_decentralized
+
+扩展到60
+llm-exp/result_dir/log_20240909_033111_distributed
+llm-exp/result_dir/log_20240909_055029_decentralized
+
+80
+llm-exp/result_dir/log_20240909_111437_distributed: 
+llm-exp/result_dir/log_20240909_123145_decentralized: 
+
+90
+
+single chain+summary, gpt4o-mini:
+llm-exp/result_dir/log_20240915_205447_single
+single chain:
