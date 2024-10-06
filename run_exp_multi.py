@@ -455,7 +455,7 @@ def generate_summary_contextual_hiring(reward_history, theta, agent_type_mix, al
     for arm, stats in reward_history.items():
         # Include the arm's features in the summary
         feature_str = ", ".join(arm_features_labels[arm])
-        summary += f"{arm}[{feature_str}]: {stats['trials']} times, average reward: {stats['mean_reward']}, current estimate reward: {all_estimated_rewards[i]}\n"
+        summary += f"{arm}[{feature_str}]: {stats['trials']} times, average reward: {stats['mean_reward']:.3f}, current estimate reward: {all_estimated_rewards[i]:.3f}\n"
 
         i+=1
 
@@ -469,7 +469,7 @@ def generate_summary_contextual_hiring(reward_history, theta, agent_type_mix, al
     )
     
     summary += f"\n{theta_summary}\n"
-    # theta_summary += f"\n{summary}\n"
+
     return summary
 
 def save_results_to_csv_multi_hiring(llm_choices, estimate_highest_list, filename):
@@ -930,7 +930,7 @@ def run_multi_candidate_hiring_experiment(turn_num, num_rounds, candidate_featur
                 "content": (
                     f"So far you have played {round_idx + 1} times. Your previous choices and rewards, along with shared information from other candidates, are summarized as follows:\n"
                     f"{summary_results}"
-                    "Which firm will you choose next? Remember, YOU MUST provide your final answer within the tags <Answer>FIRM</Answer> where FIRM is one of Firm1, Firm2, Firm3, Firm4. Let’s think step by step to make the best choice."
+                    "Which firm will you choose next? Remember, YOU MUST provide your final answer within the tags <Answer>Firm</Answer> where Firm is one of Firm1, Firm2, Firm3, Firm4. Let’s think step by step to make the best choice."
                 )
             }
 

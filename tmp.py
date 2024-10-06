@@ -10,8 +10,8 @@ def calculate_reward_probability_vector(arm_feature, agent_type_mix, theta):
     return reward
 
 # Global theta (new)
-theta = [0.4, 0.1, 0.4, 0.1, # Type 1: [theta_A1_Type1, theta_A2_Type1, theta_B1_Type1, theta_B2_Type1]
-         0.1, 0.4, 0.1, 0.4]   # Type 2: [theta_A1_Type2, theta_A2_Type2, theta_B1_Type2, theta_B2_Type2]
+theta = [0.4, 0.4, 0.4, 0.4, # Type 1: [theta_A1_Type1, theta_A2_Type1, theta_B1_Type1, theta_B2_Type1]
+         0.4, 0.4, 0.4, 0.4]   # Type 2: [theta_A1_Type2, theta_A2_Type2, theta_B1_Type2, theta_B2_Type2]
 
 # Agent type mixes
 agents = [

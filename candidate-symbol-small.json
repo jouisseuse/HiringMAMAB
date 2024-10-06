@@ -1,10 +1,10 @@
 {
     "category#1": {
-        "feature#1": 1,
-        "feature#2": 1
+        "Attribute1": 1,
+        "Attribute2": 1
     },
     "category#2": {
-        "feature#3": 1,
-        "feature#4": 1
+        "Attribute3": 1,
+        "Attribute4": 1
     }
 }

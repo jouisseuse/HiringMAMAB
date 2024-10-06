@@ -73,7 +73,7 @@ plt.legend()
 plt.grid(True)
 
 # Save the plot instead of displaying it
-plot_output = os.path.join(directory1, "entropy_trend.png")
+plot_output = os.path.join(directory1, "entropy_trend_tmp.png")
 plt.savefig(plot_output)
 plt.close()  # Close the plot to free memory
 
