@@ -1,0 +1,54 @@
+Round,Choice,Reward,Last Choice,Last Reward,Majority Choice Prev,Cumulative Best Choices,Judgment,Pattern,Strategy
+0,,,,,,,N/A,N/A,N/A+N/A
+1,Crimson,1.0,,,,,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+2,,,Crimson,1.0,Crimson,"Sky Blue, Pink, Black, Indigo, Orange, Slate, Crimson",N/A,N/A,N/A+N/A
+3,,,,,Sky Blue,Sky Blue,N/A,N/A,N/A+N/A
+4,,,,,Sky Blue,Sky Blue,N/A,N/A,N/A+N/A
+5,,,,,Sky Blue,Sky Blue,N/A,N/A,N/A+N/A
+6,,,,,Sky Blue,Sky Blue,N/A,N/A,N/A+N/A
+7,Sky Blue,1.0,,,Sky Blue,Sky Blue,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+8,Crimson,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+9,Slate,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+10,Crimson,1.0,Slate,1.0,Slate,Sky Blue,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+11,Crimson,1.0,Crimson,1.0,Slate,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+12,Crimson,1.0,Crimson,1.0,Slate,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+13,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+14,Crimson,1.0,Crimson,1.0,Slate,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+15,Crimson,1.0,Crimson,1.0,Slate,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+16,Crimson,1.0,Crimson,1.0,Slate,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+17,Crimson,1.0,Crimson,1.0,Slate,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+18,Crimson,1.0,Crimson,1.0,Slate,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+19,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+20,Crimson,0.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+21,Crimson,1.0,Crimson,0.0,Sky Blue,Sky Blue,Contrarian,Lose-Stay,Contrarian+Lose-Stay
+22,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+23,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+24,Crimson,0.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+25,Crimson,1.0,Crimson,0.0,Sky Blue,Sky Blue,Contrarian,Lose-Stay,Contrarian+Lose-Stay
+26,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+27,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+28,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+29,Crimson,1.0,Crimson,1.0,Crimson,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+30,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+31,Crimson,0.0,Crimson,1.0,Crimson,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+32,Crimson,1.0,Crimson,0.0,Sky Blue,Sky Blue,Contrarian,Lose-Stay,Contrarian+Lose-Stay
+33,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+34,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+35,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+36,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+37,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+38,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+39,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+40,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+41,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+42,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+43,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+44,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+45,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+46,Crimson,1.0,Crimson,1.0,Crimson,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+47,Crimson,0.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+48,Crimson,1.0,Crimson,0.0,Sky Blue,Sky Blue,Contrarian,Lose-Stay,Contrarian+Lose-Stay
+49,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+50,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+51,Crimson,0.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+52,,,Crimson,0.0,Sky Blue,Sky Blue,N/A,N/A,N/A+N/A

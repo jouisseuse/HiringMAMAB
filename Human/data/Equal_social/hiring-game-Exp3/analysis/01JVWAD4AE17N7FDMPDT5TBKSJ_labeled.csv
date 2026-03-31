@@ -1,0 +1,54 @@
+Round,Choice,Reward,Last Choice,Last Reward,Majority Choice Prev,Cumulative Best Choices,Judgment,Pattern,Strategy
+0,,,,,,,N/A,N/A,N/A+N/A
+1,,,,,,,N/A,N/A,N/A+N/A
+2,Sky Blue,1.0,,,Crimson,"Pink, Amber, Purple, Bright Green, Slate",Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+3,Bright Green,1.0,Sky Blue,1.0,Bright Green,Bright Green,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+4,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+5,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+6,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+7,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+8,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+9,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+10,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+11,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+12,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+13,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+14,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+15,Bright Green,0.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+16,Bright Green,1.0,Bright Green,0.0,Bright Green,Bright Green,Majority-Biased,Lose-Stay,Majority-Biased+Lose-Stay
+17,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+18,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+19,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+20,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+21,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+22,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+23,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+24,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+25,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+26,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+27,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+28,Bright Green,1.0,Bright Green,1.0,Sky Blue,Bright Green,Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+29,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+30,Bright Green,0.0,Bright Green,1.0,Amber,Bright Green,Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+31,Bright Green,0.0,Bright Green,0.0,Amber,Bright Green,Social-Exploit,Lose-Stay,Social-Exploit+Lose-Stay
+32,Bright Green,1.0,Bright Green,0.0,Sky Blue,Bright Green,Social-Exploit,Lose-Stay,Social-Exploit+Lose-Stay
+33,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+34,Bright Green,1.0,Bright Green,1.0,Amber,Bright Green,Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+35,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+36,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+37,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+38,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+39,Bright Green,1.0,Bright Green,1.0,Amber,Bright Green,Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+40,Bright Green,0.0,Bright Green,1.0,Amber,Bright Green,Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+41,Bright Green,1.0,Bright Green,0.0,Amber,Bright Green,Social-Exploit,Lose-Stay,Social-Exploit+Lose-Stay
+42,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+43,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+44,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+45,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+46,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+47,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+48,Bright Green,1.0,Bright Green,1.0,Amber,Bright Green,Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+49,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+50,Bright Green,1.0,Bright Green,1.0,Bright Green,Bright Green,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+51,,,Bright Green,1.0,Bright Green,Bright Green,N/A,N/A,N/A+N/A
+52,,,,,Bright Green,Bright Green,N/A,N/A,N/A+N/A

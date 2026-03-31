@@ -1,0 +1,26 @@
+variable,mean,min,max,category,percent
+age,42.27,17.0,78.0,,
+gender,,,,Female,52.16
+gender,,,,Male,46.56
+gender,,,,Prefer not to say,0.76
+gender,,,,Other,0.51
+race,,,,Caucasian,70.23
+race,,,,African,12.72
+race,,,,Latin/x,5.6
+race,,,,Mixed-Race,4.07
+race,,,,Asian,3.82
+race,,,,Other,2.04
+race,,,,Native American,1.53
+education,,,,College,49.11
+education,,,,Some College,21.63
+education,,,,Graduate Professional School,19.85
+education,,,,High School,8.14
+education,,,,Prefer not to say,0.76
+education,,,,Other,0.51
+political,,,,Extremely Liberal,26.72
+political,,,,Slightly Liberal,20.61
+political,,,,Moderately Liberal,20.36
+political,,,,Slightly Conservative,12.21
+political,,,,Moderately Conservative,11.2
+political,,,,Extremely Conservative,6.36
+political,,,,Prefer not to say,2.54

@@ -1,0 +1,1001 @@
+participantId,familiarity_raw,evaluation_raw,university,familiarity_num,participant_mean_rating,evaluation_centered,heard_binary
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Durham University,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,51,Durham University,0.0,43.85,7.149999999999999,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,74,Durham University,0.0,71.15,2.8499999999999943,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,"I have heard of it, but I am not familiar with it",70,Durham University,0.33,68.4,1.5999999999999943,Heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,16,Durham University,0.0,35.8,-19.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Durham University,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,"I have heard of it, but I am not familiar with it",70,Durham University,0.33,53.45,16.549999999999997,Heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,31,Durham University,0.0,21.25,9.75,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,75,Durham University,0.0,59.7,15.299999999999997,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,"I have heard of it, but I am not familiar with it",65,Durham University,0.33,42.25,22.75,Heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,86,Durham University,0.0,90.95,-4.950000000000003,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,53,Durham University,0.0,59.85,-6.850000000000001,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",30,Durham University,0.33,41.85,-11.850000000000001,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,51,Durham University,0.0,43.0,8.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",30,Durham University,0.33,28.1,1.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,"I have heard of it, but I am not familiar with it",65,Durham University,0.33,60.0,5.0,Heard
+3D7D72CEA1F6413D961CE185176CE502,I am somewhat familiar with it,76,Durham University,0.6,65.05,10.950000000000003,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,"I have heard of it, but I am not familiar with it",88,Durham University,0.33,79.0,9.0,Heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,Durham University,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,67,Durham University,0.0,63.4,3.6000000000000014,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,70,Durham University,0.0,44.55,25.450000000000003,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,15,Durham University,0.0,15.45,-0.4499999999999993,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,53,Durham University,0.0,44.0,9.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,"I have heard of it, but I am not familiar with it",10,Durham University,0.33,13.55,-3.5500000000000007,Heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,12,Durham University,0.0,19.25,-7.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,72,Durham University,0.6,70.1,1.9000000000000057,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,Durham University,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",95,Durham University,0.33,69.65,25.349999999999994,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,38,Durham University,0.0,23.3,14.7,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,17,Durham University,0.0,17.0,0.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,49,Durham University,0.0,49.7,-0.7000000000000028,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I am somewhat familiar with it,60,Durham University,0.6,61.25,-1.25,Heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,69,Durham University,0.0,69.1,-0.09999999999999432,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,"I have heard of it, but I am not familiar with it",77,Durham University,0.33,71.05,5.950000000000003,Heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,49,Durham University,0.0,42.6,6.399999999999999,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,"I have heard of it, but I am not familiar with it",77,Durham University,0.33,72.7,4.299999999999997,Heard
+38C7B4CC15C54D5F98F166C1BD1995F2,"I have heard of it, but I am not familiar with it",50,Durham University,0.33,49.95,0.04999999999999716,Heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,65,Durham University,0.0,70.0,-5.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,"I have heard of it, but I am not familiar with it",81,Durham University,0.33,39.6,41.4,Heard
+BE48927354EC40329D644A03693519C9,"I have heard of it, but I am not familiar with it",75,Durham University,0.33,65.5,9.5,Heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,58,Durham University,0.0,49.1,8.899999999999999,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,"I have heard of it, but I am not familiar with it",69,Durham University,0.33,56.35,12.649999999999999,Heard
+3DD4464BB2A5434DA776B499B7D4BEE8,"I have heard of it, but I am not familiar with it",79,Durham University,0.33,62.95,16.049999999999997,Heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I am very familiar with it,95,Durham University,1.0,87.55,7.450000000000003,Heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",80,Durham University,0.33,79.05,0.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,"I have heard of it, but I am not familiar with it",56,Durham University,0.33,51.7,4.299999999999997,Heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,5,Durham University,0.0,11.2,-6.199999999999999,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",30,Durham University,0.33,29.35,0.6499999999999986,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I am somewhat familiar with it,67,Durham University,0.6,42.55,24.450000000000003,Heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,56,Durham University,0.0,59.9,-3.8999999999999986,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Heidelberg University,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,61,Heidelberg University,0.0,43.85,17.15,Never heard
+8C7EAE2BB6894644BB2220D74032427A,"I have heard of it, but I am not familiar with it",73,Heidelberg University,0.33,71.15,1.8499999999999943,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,50,Heidelberg University,0.0,68.4,-18.400000000000006,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,44,Heidelberg University,0.0,35.8,8.200000000000003,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,51,Heidelberg University,0.0,50.05,0.9500000000000028,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,60,Heidelberg University,0.0,53.45,6.549999999999997,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,20,Heidelberg University,0.0,21.25,-1.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,Heidelberg University,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,20,Heidelberg University,0.0,42.25,-22.25,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,90,Heidelberg University,0.0,90.95,-0.9500000000000028,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,78,Heidelberg University,0.0,59.85,18.15,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,45,Heidelberg University,0.0,41.85,3.1499999999999986,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,22,Heidelberg University,0.0,43.0,-21.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",31,Heidelberg University,0.33,28.1,2.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,43,Heidelberg University,0.0,60.0,-17.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",60,Heidelberg University,0.33,65.05,-5.049999999999997,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,77,Heidelberg University,0.0,79.0,-2.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,Heidelberg University,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I am somewhat familiar with it,100,Heidelberg University,0.6,63.4,36.6,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,20,Heidelberg University,0.0,44.55,-24.549999999999997,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,6,Heidelberg University,0.0,15.45,-9.45,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,"I have heard of it, but I am not familiar with it",51,Heidelberg University,0.33,44.0,7.0,Heard
+EE5F963F39674CACA41B0DDC1595BFC0,I am somewhat familiar with it,10,Heidelberg University,0.6,13.55,-3.5500000000000007,Heard
+9C9BF153F23143F28476E316F8F2010D,"I have heard of it, but I am not familiar with it",11,Heidelberg University,0.33,19.25,-8.25,Heard
+8BCB509032C148C7B1809382C5D2D30B,"I have heard of it, but I am not familiar with it",38,Heidelberg University,0.33,70.1,-32.099999999999994,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,Heidelberg University,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,83,Heidelberg University,0.0,69.65,13.349999999999994,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,0,Heidelberg University,0.0,23.3,-23.3,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,17,Heidelberg University,0.0,17.0,0.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,41,Heidelberg University,0.0,49.7,-8.700000000000003,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,55,Heidelberg University,0.0,61.25,-6.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,70,Heidelberg University,0.0,69.1,0.9000000000000057,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,79,Heidelberg University,0.0,71.05,7.950000000000003,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,30,Heidelberg University,0.0,42.6,-12.600000000000001,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Heidelberg University,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Heidelberg University,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,"I have heard of it, but I am not familiar with it",85,Heidelberg University,0.33,70.0,15.0,Heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,16,Heidelberg University,0.0,39.6,-23.6,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,Heidelberg University,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,57,Heidelberg University,0.0,49.1,7.899999999999999,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Heidelberg University,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,50,Heidelberg University,0.0,62.95,-12.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,"I have heard of it, but I am not familiar with it",85,Heidelberg University,0.33,87.55,-2.549999999999997,Heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",81,Heidelberg University,0.33,79.05,1.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,49,Heidelberg University,0.0,51.7,-2.700000000000003,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,4,Heidelberg University,0.0,11.2,-7.199999999999999,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",27,Heidelberg University,0.33,29.35,-2.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,31,Heidelberg University,0.0,42.55,-11.549999999999997,Never heard
+A55A273E95E740CF987A0746A8D05865,I am somewhat familiar with it,80,Heidelberg University,0.6,59.9,20.1,Heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,KTH Royal Institute of Technology,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,73,KTH Royal Institute of Technology,0.0,43.85,29.15,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,51,KTH Royal Institute of Technology,0.0,71.15,-20.150000000000006,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,KTH Royal Institute of Technology,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,50,KTH Royal Institute of Technology,0.0,35.8,14.200000000000003,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,KTH Royal Institute of Technology,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,79,KTH Royal Institute of Technology,0.0,53.45,25.549999999999997,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,8,KTH Royal Institute of Technology,0.0,21.25,-13.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,78,KTH Royal Institute of Technology,0.0,59.7,18.299999999999997,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,50,KTH Royal Institute of Technology,0.0,42.25,7.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,94,KTH Royal Institute of Technology,0.0,90.95,3.049999999999997,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,52,KTH Royal Institute of Technology,0.0,59.85,-7.850000000000001,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,50,KTH Royal Institute of Technology,0.0,41.85,8.149999999999999,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,72,KTH Royal Institute of Technology,0.0,43.0,29.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,I have never heard of this university,19,KTH Royal Institute of Technology,0.0,28.1,-9.100000000000001,Never heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,52,KTH Royal Institute of Technology,0.0,60.0,-8.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,I have never heard of this university,56,KTH Royal Institute of Technology,0.0,65.05,-9.049999999999997,Never heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,76,KTH Royal Institute of Technology,0.0,79.0,-3.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,85,KTH Royal Institute of Technology,0.0,79.0,6.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,85,KTH Royal Institute of Technology,0.0,63.4,21.6,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,60,KTH Royal Institute of Technology,0.0,44.55,15.450000000000003,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,4,KTH Royal Institute of Technology,0.0,15.45,-11.45,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,51,KTH Royal Institute of Technology,0.0,44.0,7.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,KTH Royal Institute of Technology,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,36,KTH Royal Institute of Technology,0.0,19.25,16.75,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,69,KTH Royal Institute of Technology,0.6,70.1,-1.0999999999999943,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,90,KTH Royal Institute of Technology,0.0,82.25,7.75,Never heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,90,KTH Royal Institute of Technology,0.0,69.65,20.349999999999994,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,20,KTH Royal Institute of Technology,0.0,23.3,-3.3000000000000007,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,15,KTH Royal Institute of Technology,0.0,17.0,-2.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,69,KTH Royal Institute of Technology,0.0,49.7,19.299999999999997,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,75,KTH Royal Institute of Technology,0.0,61.25,13.75,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,70,KTH Royal Institute of Technology,0.0,69.1,0.9000000000000057,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,82,KTH Royal Institute of Technology,0.0,71.05,10.950000000000003,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,51,KTH Royal Institute of Technology,0.0,42.6,8.399999999999999,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,KTH Royal Institute of Technology,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,KTH Royal Institute of Technology,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,80,KTH Royal Institute of Technology,0.0,70.0,10.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,27,KTH Royal Institute of Technology,0.0,39.6,-12.600000000000001,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,KTH Royal Institute of Technology,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,44,KTH Royal Institute of Technology,0.0,49.1,-5.100000000000001,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,KTH Royal Institute of Technology,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,73,KTH Royal Institute of Technology,0.0,62.95,10.049999999999997,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,98,KTH Royal Institute of Technology,0.0,87.55,10.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",79,KTH Royal Institute of Technology,0.33,79.05,-0.04999999999999716,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,61,KTH Royal Institute of Technology,0.0,51.7,9.299999999999997,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,6,KTH Royal Institute of Technology,0.0,11.2,-5.199999999999999,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,KTH Royal Institute of Technology,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,51,KTH Royal Institute of Technology,0.0,42.55,8.450000000000003,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,74,KTH Royal Institute of Technology,0.0,59.9,14.100000000000001,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Karlsruhe Institute of Technology,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,25,Karlsruhe Institute of Technology,0.0,43.85,-18.85,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,51,Karlsruhe Institute of Technology,0.0,71.15,-20.150000000000006,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,Karlsruhe Institute of Technology,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,23,Karlsruhe Institute of Technology,0.0,35.8,-12.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Karlsruhe Institute of Technology,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,70,Karlsruhe Institute of Technology,0.0,53.45,16.549999999999997,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,19,Karlsruhe Institute of Technology,0.0,21.25,-2.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,Karlsruhe Institute of Technology,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,51,Karlsruhe Institute of Technology,0.0,42.25,8.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,91,Karlsruhe Institute of Technology,0.0,90.95,0.04999999999999716,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,55,Karlsruhe Institute of Technology,0.0,59.85,-4.850000000000001,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,30,Karlsruhe Institute of Technology,0.0,41.85,-11.850000000000001,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,77,Karlsruhe Institute of Technology,0.0,43.0,34.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,I have never heard of this university,23,Karlsruhe Institute of Technology,0.0,28.1,-5.100000000000001,Never heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,58,Karlsruhe Institute of Technology,0.0,60.0,-2.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",73,Karlsruhe Institute of Technology,0.33,65.05,7.950000000000003,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,76,Karlsruhe Institute of Technology,0.0,79.0,-3.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,90,Karlsruhe Institute of Technology,0.0,79.0,11.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,22,Karlsruhe Institute of Technology,0.0,63.4,-41.4,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,5,Karlsruhe Institute of Technology,0.0,44.55,-39.55,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,31,Karlsruhe Institute of Technology,0.0,15.45,15.55,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,51,Karlsruhe Institute of Technology,0.0,44.0,7.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,Karlsruhe Institute of Technology,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,12,Karlsruhe Institute of Technology,0.0,19.25,-7.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am very familiar with it,74,Karlsruhe Institute of Technology,1.0,70.1,3.9000000000000057,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,91,Karlsruhe Institute of Technology,0.0,82.25,8.75,Never heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,28,Karlsruhe Institute of Technology,0.0,69.65,-41.650000000000006,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,0,Karlsruhe Institute of Technology,0.0,23.3,-23.3,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,14,Karlsruhe Institute of Technology,0.0,17.0,-3.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,71,Karlsruhe Institute of Technology,0.0,49.7,21.299999999999997,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,70,Karlsruhe Institute of Technology,0.0,61.25,8.75,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,69,Karlsruhe Institute of Technology,0.0,69.1,-0.09999999999999432,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,76,Karlsruhe Institute of Technology,0.0,71.05,4.950000000000003,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,59,Karlsruhe Institute of Technology,0.0,42.6,16.4,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Karlsruhe Institute of Technology,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Karlsruhe Institute of Technology,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,80,Karlsruhe Institute of Technology,0.0,70.0,10.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,13,Karlsruhe Institute of Technology,0.0,39.6,-26.6,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,Karlsruhe Institute of Technology,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,39,Karlsruhe Institute of Technology,0.0,49.1,-10.100000000000001,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Karlsruhe Institute of Technology,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,69,Karlsruhe Institute of Technology,0.0,62.95,6.049999999999997,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,95,Karlsruhe Institute of Technology,0.0,87.55,7.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",88,Karlsruhe Institute of Technology,0.33,79.05,8.950000000000003,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,50,Karlsruhe Institute of Technology,0.0,51.7,-1.7000000000000028,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,50,Karlsruhe Institute of Technology,0.0,11.2,38.8,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,Karlsruhe Institute of Technology,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,29,Karlsruhe Institute of Technology,0.0,42.55,-13.549999999999997,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,63,Karlsruhe Institute of Technology,0.0,59.9,3.1000000000000014,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Lund University,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,66,Lund University,0.0,43.85,22.15,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,78,Lund University,0.0,71.15,6.849999999999994,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,Lund University,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,5,Lund University,0.0,35.8,-30.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Lund University,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,49,Lund University,0.0,53.45,-4.450000000000003,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,21,Lund University,0.0,21.25,-0.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,Lund University,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,20,Lund University,0.0,42.25,-22.25,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,86,Lund University,0.0,90.95,-4.950000000000003,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,55,Lund University,0.0,59.85,-4.850000000000001,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,20,Lund University,0.0,41.85,-21.85,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,62,Lund University,0.0,43.0,19.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,I have never heard of this university,27,Lund University,0.0,28.1,-1.1000000000000014,Never heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,55,Lund University,0.0,60.0,-5.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",61,Lund University,0.33,65.05,-4.049999999999997,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,69,Lund University,0.0,79.0,-10.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,70,Lund University,0.0,79.0,-9.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,55,Lund University,0.0,63.4,-8.399999999999999,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,10,Lund University,0.0,44.55,-34.55,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,3,Lund University,0.0,15.45,-12.45,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,50,Lund University,0.0,44.0,6.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,Lund University,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,"I have heard of it, but I am not familiar with it",14,Lund University,0.33,19.25,-5.25,Heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,63,Lund University,0.6,70.1,-7.099999999999994,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,75,Lund University,0.0,82.25,-7.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",77,Lund University,0.33,69.65,7.349999999999994,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,0,Lund University,0.0,23.3,-23.3,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,20,Lund University,0.0,17.0,3.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,40,Lund University,0.0,49.7,-9.700000000000003,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,55,Lund University,0.0,61.25,-6.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,69,Lund University,0.0,69.1,-0.09999999999999432,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,75,Lund University,0.0,71.05,3.950000000000003,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,50,Lund University,0.0,42.6,7.399999999999999,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Lund University,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Lund University,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,65,Lund University,0.0,70.0,-5.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,43,Lund University,0.0,39.6,3.3999999999999986,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,Lund University,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,54,Lund University,0.0,49.1,4.899999999999999,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Lund University,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,51,Lund University,0.0,62.95,-11.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,75,Lund University,0.0,87.55,-12.549999999999997,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",79,Lund University,0.33,79.05,-0.04999999999999716,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,50,Lund University,0.0,51.7,-1.7000000000000028,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,9,Lund University,0.0,11.2,-2.1999999999999993,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",28,Lund University,0.33,29.35,-1.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,30,Lund University,0.0,42.55,-12.549999999999997,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,59,Lund University,0.0,59.9,-0.8999999999999986,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Osaka University,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,32,Osaka University,0.0,43.85,-11.850000000000001,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I am very familiar with it,94,Osaka University,1.0,71.15,22.849999999999994,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,Osaka University,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,"I have heard of it, but I am not familiar with it",64,Osaka University,0.33,35.8,28.200000000000003,Heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Osaka University,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,70,Osaka University,0.0,53.45,16.549999999999997,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,9,Osaka University,0.0,21.25,-12.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,60,Osaka University,0.0,59.7,0.29999999999999716,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,49,Osaka University,0.0,42.25,6.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,100,Osaka University,0.0,90.95,9.049999999999997,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,63,Osaka University,0.0,59.85,3.1499999999999986,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",60,Osaka University,0.33,41.85,18.15,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,94,Osaka University,0.0,43.0,51.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",30,Osaka University,0.33,28.1,1.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,"I have heard of it, but I am not familiar with it",84,Osaka University,0.33,60.0,24.0,Heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",62,Osaka University,0.33,65.05,-3.049999999999997,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,"I have heard of it, but I am not familiar with it",82,Osaka University,0.33,79.0,3.0,Heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,75,Osaka University,0.0,79.0,-4.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,76,Osaka University,0.0,63.4,12.600000000000001,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,10,Osaka University,0.0,44.55,-34.55,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,4,Osaka University,0.0,15.45,-11.45,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,51,Osaka University,0.0,44.0,7.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I am somewhat familiar with it,10,Osaka University,0.6,13.55,-3.5500000000000007,Heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,31,Osaka University,0.0,19.25,11.75,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,82,Osaka University,0.6,70.1,11.900000000000006,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,Osaka University,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",95,Osaka University,0.33,69.65,25.349999999999994,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,44,Osaka University,0.0,23.3,20.7,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,20,Osaka University,0.0,17.0,3.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,"I have heard of it, but I am not familiar with it",69,Osaka University,0.33,49.7,19.299999999999997,Heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,85,Osaka University,0.0,61.25,23.75,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,70,Osaka University,0.0,69.1,0.9000000000000057,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,81,Osaka University,0.0,71.05,9.950000000000003,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,51,Osaka University,0.0,42.6,8.399999999999999,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Osaka University,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Osaka University,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,80,Osaka University,0.0,70.0,10.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,34,Osaka University,0.0,39.6,-5.600000000000001,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,Osaka University,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,58,Osaka University,0.0,49.1,8.899999999999999,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Osaka University,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,65,Osaka University,0.0,62.95,2.049999999999997,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,95,Osaka University,0.0,87.55,7.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",79,Osaka University,0.33,79.05,-0.04999999999999716,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I am somewhat familiar with it,58,Osaka University,0.6,51.7,6.299999999999997,Heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,3,Osaka University,0.0,11.2,-8.2,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,Osaka University,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,"I have heard of it, but I am not familiar with it",48,Osaka University,0.33,42.55,5.450000000000003,Heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,45,Osaka University,0.0,59.9,-14.899999999999999,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Politecnico di Milano,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,18,Politecnico di Milano,0.0,43.85,-25.85,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,50,Politecnico di Milano,0.0,71.15,-21.150000000000006,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,60,Politecnico di Milano,0.0,68.4,-8.400000000000006,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,18,Politecnico di Milano,0.0,35.8,-17.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Politecnico di Milano,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,30,Politecnico di Milano,0.0,53.45,-23.450000000000003,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,10,Politecnico di Milano,0.0,21.25,-11.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,Politecnico di Milano,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,15,Politecnico di Milano,0.0,42.25,-27.25,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,89,Politecnico di Milano,0.0,90.95,-1.9500000000000028,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,32,Politecnico di Milano,0.0,59.85,-27.85,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I am somewhat familiar with it,70,Politecnico di Milano,0.6,41.85,28.15,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,65,Politecnico di Milano,0.0,43.0,22.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,I have never heard of this university,19,Politecnico di Milano,0.0,28.1,-9.100000000000001,Never heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,50,Politecnico di Milano,0.0,60.0,-10.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,I have never heard of this university,62,Politecnico di Milano,0.0,65.05,-3.049999999999997,Never heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,69,Politecnico di Milano,0.0,79.0,-10.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,70,Politecnico di Milano,0.0,79.0,-9.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,38,Politecnico di Milano,0.0,63.4,-25.4,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,1,Politecnico di Milano,0.0,44.55,-43.55,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,4,Politecnico di Milano,0.0,15.45,-11.45,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,11,Politecnico di Milano,0.0,44.0,-33.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,Politecnico di Milano,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,13,Politecnico di Milano,0.0,19.25,-6.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,81,Politecnico di Milano,0.6,70.1,10.900000000000006,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,88,Politecnico di Milano,0.0,82.25,5.75,Never heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,46,Politecnico di Milano,0.0,69.65,-23.650000000000006,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,36,Politecnico di Milano,0.0,23.3,12.7,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,20,Politecnico di Milano,0.0,17.0,3.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,30,Politecnico di Milano,0.0,49.7,-19.700000000000003,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,65,Politecnico di Milano,0.0,61.25,3.75,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,69,Politecnico di Milano,0.0,69.1,-0.09999999999999432,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,60,Politecnico di Milano,0.0,71.05,-11.049999999999997,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,30,Politecnico di Milano,0.0,42.6,-12.600000000000001,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Politecnico di Milano,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Politecnico di Milano,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,60,Politecnico di Milano,0.0,70.0,-10.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,86,Politecnico di Milano,0.0,39.6,46.4,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,55,Politecnico di Milano,0.0,65.5,-10.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,50,Politecnico di Milano,0.0,49.1,0.8999999999999986,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Politecnico di Milano,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,50,Politecnico di Milano,0.0,62.95,-12.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,80,Politecnico di Milano,0.0,87.55,-7.549999999999997,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",84,Politecnico di Milano,0.33,79.05,4.950000000000003,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,45,Politecnico di Milano,0.0,51.7,-6.700000000000003,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,9,Politecnico di Milano,0.0,11.2,-2.1999999999999993,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,Politecnico di Milano,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,22,Politecnico di Milano,0.0,42.55,-20.549999999999997,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,38,Politecnico di Milano,0.0,59.9,-21.9,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Sorbonne University,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,46,Sorbonne University,0.0,43.85,2.1499999999999986,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,70,Sorbonne University,0.0,71.15,-1.1500000000000057,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,80,Sorbonne University,0.0,68.4,11.599999999999994,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,12,Sorbonne University,0.0,35.8,-23.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Sorbonne University,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,20,Sorbonne University,0.0,53.45,-33.45,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,11,Sorbonne University,0.0,21.25,-10.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,49,Sorbonne University,0.0,59.7,-10.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,25,Sorbonne University,0.0,42.25,-17.25,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I am somewhat familiar with it,100,Sorbonne University,0.6,90.95,9.049999999999997,Heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,31,Sorbonne University,0.0,59.85,-28.85,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,40,Sorbonne University,0.0,41.85,-1.8500000000000014,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,37,Sorbonne University,0.0,43.0,-6.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",30,Sorbonne University,0.33,28.1,1.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,48,Sorbonne University,0.0,60.0,-12.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,I am somewhat familiar with it,89,Sorbonne University,0.6,65.05,23.950000000000003,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,67,Sorbonne University,0.0,79.0,-12.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,Sorbonne University,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,66,Sorbonne University,0.0,63.4,2.6000000000000014,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,30,Sorbonne University,0.0,44.55,-14.549999999999997,Never heard
+09A54B497E63405482AE17D913E2D5C2,"I have heard of it, but I am not familiar with it",22,Sorbonne University,0.33,15.45,6.550000000000001,Heard
+4068D798CA4F443EBDA0836A346C7FAA,I am somewhat familiar with it,52,Sorbonne University,0.6,44.0,8.0,Heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,11,Sorbonne University,0.0,13.55,-2.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,"I have heard of it, but I am not familiar with it",31,Sorbonne University,0.33,19.25,11.75,Heard
+8BCB509032C148C7B1809382C5D2D30B,I am very familiar with it,81,Sorbonne University,1.0,70.1,10.900000000000006,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I am somewhat familiar with it,87,Sorbonne University,0.6,82.25,4.75,Heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,60,Sorbonne University,0.0,69.65,-9.650000000000006,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,"I have heard of it, but I am not familiar with it",59,Sorbonne University,0.33,23.3,35.7,Heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,19,Sorbonne University,0.0,17.0,2.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,31,Sorbonne University,0.0,49.7,-18.700000000000003,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,50,Sorbonne University,0.0,61.25,-11.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,"I have heard of it, but I am not familiar with it",74,Sorbonne University,0.33,69.1,4.900000000000006,Heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,51,Sorbonne University,0.0,71.05,-20.049999999999997,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,32,Sorbonne University,0.0,42.6,-10.600000000000001,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Sorbonne University,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Sorbonne University,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,"I have heard of it, but I am not familiar with it",80,Sorbonne University,0.33,70.0,10.0,Heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,15,Sorbonne University,0.0,39.6,-24.6,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,Sorbonne University,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,33,Sorbonne University,0.0,49.1,-16.1,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Sorbonne University,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,59,Sorbonne University,0.0,62.95,-3.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,"I have heard of it, but I am not familiar with it",70,Sorbonne University,0.33,87.55,-17.549999999999997,Heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",80,Sorbonne University,0.33,79.05,0.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,51,Sorbonne University,0.0,51.7,-0.7000000000000028,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,4,Sorbonne University,0.0,11.2,-7.199999999999999,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,Sorbonne University,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,16,Sorbonne University,0.0,42.55,-26.549999999999997,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,69,Sorbonne University,0.0,59.9,9.100000000000001,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,The University of Western Australia,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,22,The University of Western Australia,0.0,43.85,-21.85,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,72,The University of Western Australia,0.0,71.15,0.8499999999999943,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,59,The University of Western Australia,0.0,68.4,-9.400000000000006,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,15,The University of Western Australia,0.0,35.8,-20.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,The University of Western Australia,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,60,The University of Western Australia,0.0,53.45,6.549999999999997,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,30,The University of Western Australia,0.0,21.25,8.75,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,76,The University of Western Australia,0.0,59.7,16.299999999999997,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,60,The University of Western Australia,0.0,42.25,17.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,90,The University of Western Australia,0.0,90.95,-0.9500000000000028,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,81,The University of Western Australia,0.0,59.85,21.15,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",40,The University of Western Australia,0.33,41.85,-1.8500000000000014,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,68,The University of Western Australia,0.0,43.0,25.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",32,The University of Western Australia,0.33,28.1,3.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,52,The University of Western Australia,0.0,60.0,-8.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",68,The University of Western Australia,0.33,65.05,2.950000000000003,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,"I have heard of it, but I am not familiar with it",88,The University of Western Australia,0.33,79.0,9.0,Heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,75,The University of Western Australia,0.0,79.0,-4.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,70,The University of Western Australia,0.0,63.4,6.600000000000001,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,90,The University of Western Australia,0.0,44.55,45.45,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,1,The University of Western Australia,0.0,15.45,-14.45,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,51,The University of Western Australia,0.0,44.0,7.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,The University of Western Australia,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,11,The University of Western Australia,0.0,19.25,-8.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,66,The University of Western Australia,0.6,70.1,-4.099999999999994,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,79,The University of Western Australia,0.0,82.25,-3.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,40,The University of Western Australia,0.0,69.65,-29.650000000000006,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,18,The University of Western Australia,0.0,23.3,-5.300000000000001,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,17,The University of Western Australia,0.0,17.0,0.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,50,The University of Western Australia,0.0,49.7,0.29999999999999716,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,65,The University of Western Australia,0.0,61.25,3.75,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,60,The University of Western Australia,0.0,69.1,-9.099999999999994,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,70,The University of Western Australia,0.0,71.05,-1.0499999999999972,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,39,The University of Western Australia,0.0,42.6,-3.6000000000000014,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,75,The University of Western Australia,0.0,72.7,2.299999999999997,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,The University of Western Australia,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,60,The University of Western Australia,0.0,70.0,-10.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,14,The University of Western Australia,0.0,39.6,-25.6,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,The University of Western Australia,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,44,The University of Western Australia,0.0,49.1,-5.100000000000001,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,"I have heard of it, but I am not familiar with it",70,The University of Western Australia,0.33,56.35,13.649999999999999,Heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,71,The University of Western Australia,0.0,62.95,8.049999999999997,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,85,The University of Western Australia,0.0,87.55,-2.549999999999997,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",79,The University of Western Australia,0.33,79.05,-0.04999999999999716,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,50,The University of Western Australia,0.0,51.7,-1.7000000000000028,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,12,The University of Western Australia,0.0,11.2,0.8000000000000007,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",28,The University of Western Australia,0.33,29.35,-1.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,50,The University of Western Australia,0.0,42.55,7.450000000000003,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,60,The University of Western Australia,0.0,59.9,0.10000000000000142,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Tokyo Institute of Technology,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,79,Tokyo Institute of Technology,0.0,43.85,35.15,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I am somewhat familiar with it,80,Tokyo Institute of Technology,0.6,71.15,8.849999999999994,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,69,Tokyo Institute of Technology,0.0,68.4,0.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,48,Tokyo Institute of Technology,0.0,35.8,12.200000000000003,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Tokyo Institute of Technology,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,90,Tokyo Institute of Technology,0.0,53.45,36.55,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,9,Tokyo Institute of Technology,0.0,21.25,-12.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,96,Tokyo Institute of Technology,0.0,59.7,36.3,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,60,Tokyo Institute of Technology,0.0,42.25,17.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,92,Tokyo Institute of Technology,0.0,90.95,1.0499999999999972,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,81,Tokyo Institute of Technology,0.0,59.85,21.15,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",50,Tokyo Institute of Technology,0.33,41.85,8.149999999999999,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,75,Tokyo Institute of Technology,0.0,43.0,32.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",29,Tokyo Institute of Technology,0.33,28.1,0.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,"I have heard of it, but I am not familiar with it",79,Tokyo Institute of Technology,0.33,60.0,19.0,Heard
+3D7D72CEA1F6413D961CE185176CE502,I have never heard of this university,67,Tokyo Institute of Technology,0.0,65.05,1.9500000000000028,Never heard
+ED3568FECEB9427CAEEF86F3460C6B8A,"I have heard of it, but I am not familiar with it",88,Tokyo Institute of Technology,0.33,79.0,9.0,Heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,90,Tokyo Institute of Technology,0.0,79.0,11.0,Never heard
+2649AA17B0054500A9C624077A71F95E,"I have heard of it, but I am not familiar with it",93,Tokyo Institute of Technology,0.33,63.4,29.6,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,90,Tokyo Institute of Technology,0.0,44.55,45.45,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,3,Tokyo Institute of Technology,0.0,15.45,-12.45,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,15,Tokyo Institute of Technology,0.0,44.0,-29.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,Tokyo Institute of Technology,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,34,Tokyo Institute of Technology,0.0,19.25,14.75,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,73,Tokyo Institute of Technology,0.6,70.1,2.9000000000000057,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,93,Tokyo Institute of Technology,0.0,82.25,10.75,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",99,Tokyo Institute of Technology,0.33,69.65,29.349999999999994,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,40,Tokyo Institute of Technology,0.0,23.3,16.7,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,17,Tokyo Institute of Technology,0.0,17.0,0.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I am somewhat familiar with it,72,Tokyo Institute of Technology,0.6,49.7,22.299999999999997,Heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,90,Tokyo Institute of Technology,0.0,61.25,28.75,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,69,Tokyo Institute of Technology,0.0,69.1,-0.09999999999999432,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,"I have heard of it, but I am not familiar with it",73,Tokyo Institute of Technology,0.33,71.05,1.9500000000000028,Heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,50,Tokyo Institute of Technology,0.0,42.6,7.399999999999999,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,75,Tokyo Institute of Technology,0.0,72.7,2.299999999999997,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Tokyo Institute of Technology,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,80,Tokyo Institute of Technology,0.0,70.0,10.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,23,Tokyo Institute of Technology,0.0,39.6,-16.6,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,Tokyo Institute of Technology,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,68,Tokyo Institute of Technology,0.0,49.1,18.9,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Tokyo Institute of Technology,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,62,Tokyo Institute of Technology,0.0,62.95,-0.9500000000000028,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,98,Tokyo Institute of Technology,0.0,87.55,10.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",80,Tokyo Institute of Technology,0.33,79.05,0.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,60,Tokyo Institute of Technology,0.0,51.7,8.299999999999997,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,3,Tokyo Institute of Technology,0.0,11.2,-8.2,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",28,Tokyo Institute of Technology,0.33,29.35,-1.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,39,Tokyo Institute of Technology,0.0,42.55,-3.549999999999997,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,76,Tokyo Institute of Technology,0.0,59.9,16.1,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Trinity College Dublin,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,44,Trinity College Dublin,0.0,43.85,0.14999999999999858,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,54,Trinity College Dublin,0.0,71.15,-17.150000000000006,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,"I have heard of it, but I am not familiar with it",70,Trinity College Dublin,0.33,68.4,1.5999999999999943,Heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,30,Trinity College Dublin,0.0,35.8,-5.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Trinity College Dublin,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,"I have heard of it, but I am not familiar with it",90,Trinity College Dublin,0.33,53.45,36.55,Heard
+06F824C0E70043649B07F6BAA528B658,"I have heard of it, but I am not familiar with it",22,Trinity College Dublin,0.33,21.25,0.75,Heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,Trinity College Dublin,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I am very familiar with it,30,Trinity College Dublin,1.0,42.25,-12.25,Heard
+BD4E57AB370D4528A3DF938AE8F27B01,I am somewhat familiar with it,100,Trinity College Dublin,0.6,90.95,9.049999999999997,Heard
+6AC71943F1C544D1B30EB1036D21CA0D,"I have heard of it, but I am not familiar with it",70,Trinity College Dublin,0.33,59.85,10.149999999999999,Heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,20,Trinity College Dublin,0.0,41.85,-21.85,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,19,Trinity College Dublin,0.0,43.0,-24.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",49,Trinity College Dublin,0.33,28.1,20.9,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,56,Trinity College Dublin,0.0,60.0,-4.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,I am very familiar with it,82,Trinity College Dublin,1.0,65.05,16.950000000000003,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,78,Trinity College Dublin,0.0,79.0,-1.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,Trinity College Dublin,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,"I have heard of it, but I am not familiar with it",82,Trinity College Dublin,0.33,63.4,18.6,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,10,Trinity College Dublin,0.0,44.55,-34.55,Never heard
+09A54B497E63405482AE17D913E2D5C2,I am somewhat familiar with it,33,Trinity College Dublin,0.6,15.45,17.55,Heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,52,Trinity College Dublin,0.0,44.0,8.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I am somewhat familiar with it,29,Trinity College Dublin,0.6,13.55,15.45,Heard
+9C9BF153F23143F28476E316F8F2010D,"I have heard of it, but I am not familiar with it",22,Trinity College Dublin,0.33,19.25,2.75,Heard
+8BCB509032C148C7B1809382C5D2D30B,I am very familiar with it,78,Trinity College Dublin,1.0,70.1,7.900000000000006,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,"I have heard of it, but I am not familiar with it",81,Trinity College Dublin,0.33,82.25,-1.25,Heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,63,Trinity College Dublin,0.0,69.65,-6.650000000000006,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,0,Trinity College Dublin,0.0,23.3,-23.3,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,13,Trinity College Dublin,0.0,17.0,-4.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,29,Trinity College Dublin,0.0,49.7,-20.700000000000003,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,55,Trinity College Dublin,0.0,61.25,-6.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,"I have heard of it, but I am not familiar with it",74,Trinity College Dublin,0.33,69.1,4.900000000000006,Heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,74,Trinity College Dublin,0.0,71.05,2.950000000000003,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,32,Trinity College Dublin,0.0,42.6,-10.600000000000001,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Trinity College Dublin,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Trinity College Dublin,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,75,Trinity College Dublin,0.0,70.0,5.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,52,Trinity College Dublin,0.0,39.6,12.399999999999999,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,Trinity College Dublin,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I am somewhat familiar with it,37,Trinity College Dublin,0.6,49.1,-12.100000000000001,Heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Trinity College Dublin,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,61,Trinity College Dublin,0.0,62.95,-1.9500000000000028,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,90,Trinity College Dublin,0.0,87.55,2.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,I have never heard of this university,50,Trinity College Dublin,0.0,79.05,-29.049999999999997,Never heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,50,Trinity College Dublin,0.0,51.7,-1.7000000000000028,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,"I have heard of it, but I am not familiar with it",20,Trinity College Dublin,0.33,11.2,8.8,Heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,Trinity College Dublin,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,50,Trinity College Dublin,0.0,42.55,7.450000000000003,Never heard
+A55A273E95E740CF987A0746A8D05865,"I have heard of it, but I am not familiar with it",79,Trinity College Dublin,0.33,59.9,19.1,Heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Universidad de Buenos Aires,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,15,Universidad de Buenos Aires,0.0,43.85,-28.85,Never heard
+8C7EAE2BB6894644BB2220D74032427A,"I have heard of it, but I am not familiar with it",29,Universidad de Buenos Aires,0.33,71.15,-42.150000000000006,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,Universidad de Buenos Aires,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,55,Universidad de Buenos Aires,0.0,35.8,19.200000000000003,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Universidad de Buenos Aires,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,30,Universidad de Buenos Aires,0.0,53.45,-23.450000000000003,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,12,Universidad de Buenos Aires,0.0,21.25,-9.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,Universidad de Buenos Aires,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,75,Universidad de Buenos Aires,0.0,42.25,32.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,90,Universidad de Buenos Aires,0.0,90.95,-0.9500000000000028,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,31,Universidad de Buenos Aires,0.0,59.85,-28.85,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,40,Universidad de Buenos Aires,0.0,41.85,-1.8500000000000014,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,66,Universidad de Buenos Aires,0.0,43.0,23.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",29,Universidad de Buenos Aires,0.33,28.1,0.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,58,Universidad de Buenos Aires,0.0,60.0,-2.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,I have never heard of this university,46,Universidad de Buenos Aires,0.0,65.05,-19.049999999999997,Never heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,74,Universidad de Buenos Aires,0.0,79.0,-5.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,70,Universidad de Buenos Aires,0.0,79.0,-9.0,Never heard
+2649AA17B0054500A9C624077A71F95E,"I have heard of it, but I am not familiar with it",85,Universidad de Buenos Aires,0.33,63.4,21.6,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,5,Universidad de Buenos Aires,0.0,44.55,-39.55,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,37,Universidad de Buenos Aires,0.0,15.45,21.55,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,7,Universidad de Buenos Aires,0.0,44.0,-37.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I am somewhat familiar with it,20,Universidad de Buenos Aires,0.6,13.55,6.449999999999999,Heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,11,Universidad de Buenos Aires,0.0,19.25,-8.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am very familiar with it,73,Universidad de Buenos Aires,1.0,70.1,2.9000000000000057,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,Universidad de Buenos Aires,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,51,Universidad de Buenos Aires,0.0,69.65,-18.650000000000006,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,0,Universidad de Buenos Aires,0.0,23.3,-23.3,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,12,Universidad de Buenos Aires,0.0,17.0,-5.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,31,Universidad de Buenos Aires,0.0,49.7,-18.700000000000003,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,50,Universidad de Buenos Aires,0.0,61.25,-11.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,68,Universidad de Buenos Aires,0.0,69.1,-1.0999999999999943,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,"I have heard of it, but I am not familiar with it",64,Universidad de Buenos Aires,0.33,71.05,-7.049999999999997,Heard
+DA69570119B24065909EFD08179AB45A,"I have heard of it, but I am not familiar with it",40,Universidad de Buenos Aires,0.33,42.6,-2.6000000000000014,Heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Universidad de Buenos Aires,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Universidad de Buenos Aires,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,45,Universidad de Buenos Aires,0.0,70.0,-25.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,35,Universidad de Buenos Aires,0.0,39.6,-4.600000000000001,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,55,Universidad de Buenos Aires,0.0,65.5,-10.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,60,Universidad de Buenos Aires,0.0,49.1,10.899999999999999,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Universidad de Buenos Aires,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,51,Universidad de Buenos Aires,0.0,62.95,-11.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,85,Universidad de Buenos Aires,0.0,87.55,-2.549999999999997,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",79,Universidad de Buenos Aires,0.33,79.05,-0.04999999999999716,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,51,Universidad de Buenos Aires,0.0,51.7,-0.7000000000000028,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,4,Universidad de Buenos Aires,0.0,11.2,-7.199999999999999,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",30,Universidad de Buenos Aires,0.33,29.35,0.6499999999999986,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,52,Universidad de Buenos Aires,0.0,42.55,9.450000000000003,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,41,Universidad de Buenos Aires,0.0,59.9,-18.9,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,1,University of Adelaide,0.0,10.3,-9.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,29,University of Adelaide,0.0,43.85,-14.850000000000001,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I am somewhat familiar with it,93,University of Adelaide,0.6,71.15,21.849999999999994,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,University of Adelaide,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,36,University of Adelaide,0.0,35.8,0.20000000000000284,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,University of Adelaide,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,40,University of Adelaide,0.0,53.45,-13.450000000000003,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,30,University of Adelaide,0.0,21.25,8.75,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,University of Adelaide,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,45,University of Adelaide,0.0,42.25,2.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,85,University of Adelaide,0.0,90.95,-5.950000000000003,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,60,University of Adelaide,0.0,59.85,0.14999999999999858,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,51,University of Adelaide,0.0,41.85,9.149999999999999,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,22,University of Adelaide,0.0,43.0,-21.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",25,University of Adelaide,0.33,28.1,-3.1000000000000014,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,"I have heard of it, but I am not familiar with it",80,University of Adelaide,0.33,60.0,20.0,Heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",65,University of Adelaide,0.33,65.05,-0.04999999999999716,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,72,University of Adelaide,0.0,79.0,-7.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,University of Adelaide,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,35,University of Adelaide,0.0,63.4,-28.4,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,30,University of Adelaide,0.0,44.55,-14.549999999999997,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,13,University of Adelaide,0.0,15.45,-2.4499999999999993,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,49,University of Adelaide,0.0,44.0,5.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,University of Adelaide,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,11,University of Adelaide,0.0,19.25,-8.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,67,University of Adelaide,0.6,70.1,-3.0999999999999943,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,University of Adelaide,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,69,University of Adelaide,0.0,69.65,-0.6500000000000057,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,20,University of Adelaide,0.0,23.3,-3.3000000000000007,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,19,University of Adelaide,0.0,17.0,2.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,"I have heard of it, but I am not familiar with it",61,University of Adelaide,0.33,49.7,11.299999999999997,Heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,55,University of Adelaide,0.0,61.25,-6.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,69,University of Adelaide,0.0,69.1,-0.09999999999999432,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,72,University of Adelaide,0.0,71.05,0.9500000000000028,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,37,University of Adelaide,0.0,42.6,-5.600000000000001,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,75,University of Adelaide,0.0,72.7,2.299999999999997,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,University of Adelaide,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,65,University of Adelaide,0.0,70.0,-5.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,18,University of Adelaide,0.0,39.6,-21.6,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,University of Adelaide,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,52,University of Adelaide,0.0,49.1,2.8999999999999986,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,"I have heard of it, but I am not familiar with it",69,University of Adelaide,0.33,56.35,12.649999999999999,Heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,59,University of Adelaide,0.0,62.95,-3.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,"I have heard of it, but I am not familiar with it",80,University of Adelaide,0.33,87.55,-7.549999999999997,Heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",81,University of Adelaide,0.33,79.05,1.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,49,University of Adelaide,0.0,51.7,-2.700000000000003,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,11,University of Adelaide,0.0,11.2,-0.1999999999999993,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",30,University of Adelaide,0.33,29.35,0.6499999999999986,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,34,University of Adelaide,0.0,42.55,-8.549999999999997,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,53,University of Adelaide,0.0,59.9,-6.899999999999999,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,University of Alberta,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,53,University of Alberta,0.0,43.85,9.149999999999999,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,80,University of Alberta,0.0,71.15,8.849999999999994,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,"I have heard of it, but I am not familiar with it",80,University of Alberta,0.33,68.4,11.599999999999994,Heard
+A53D15311E1A4E7BB8D9FDD5135514FC,"I have heard of it, but I am not familiar with it",41,University of Alberta,0.33,35.8,5.200000000000003,Heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,University of Alberta,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,50,University of Alberta,0.0,53.45,-3.450000000000003,Never heard
+06F824C0E70043649B07F6BAA528B658,"I have heard of it, but I am not familiar with it",32,University of Alberta,0.33,21.25,10.75,Heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,79,University of Alberta,0.0,59.7,19.299999999999997,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,60,University of Alberta,0.0,42.25,17.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,91,University of Alberta,0.0,90.95,0.04999999999999716,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,66,University of Alberta,0.0,59.85,6.149999999999999,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",70,University of Alberta,0.33,41.85,28.15,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,0,University of Alberta,0.0,43.0,-43.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",22,University of Alberta,0.33,28.1,-6.100000000000001,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,44,University of Alberta,0.0,60.0,-16.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",63,University of Alberta,0.33,65.05,-2.049999999999997,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,"I have heard of it, but I am not familiar with it",90,University of Alberta,0.33,79.0,11.0,Heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,85,University of Alberta,0.0,79.0,6.0,Never heard
+2649AA17B0054500A9C624077A71F95E,"I have heard of it, but I am not familiar with it",54,University of Alberta,0.33,63.4,-9.399999999999999,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,90,University of Alberta,0.0,44.55,45.45,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,66,University of Alberta,0.0,15.45,50.55,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,"I have heard of it, but I am not familiar with it",55,University of Alberta,0.33,44.0,11.0,Heard
+EE5F963F39674CACA41B0DDC1595BFC0,I am somewhat familiar with it,30,University of Alberta,0.6,13.55,16.45,Heard
+9C9BF153F23143F28476E316F8F2010D,"I have heard of it, but I am not familiar with it",34,University of Alberta,0.33,19.25,14.75,Heard
+8BCB509032C148C7B1809382C5D2D30B,I am very familiar with it,65,University of Alberta,1.0,70.1,-5.099999999999994,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,University of Alberta,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",80,University of Alberta,0.33,69.65,10.349999999999994,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,50,University of Alberta,0.0,23.3,26.7,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,26,University of Alberta,0.0,17.0,9.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,"I have heard of it, but I am not familiar with it",70,University of Alberta,0.33,49.7,20.299999999999997,Heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,"I have heard of it, but I am not familiar with it",60,University of Alberta,0.33,61.25,-1.25,Heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,69,University of Alberta,0.0,69.1,-0.09999999999999432,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,"I have heard of it, but I am not familiar with it",72,University of Alberta,0.33,71.05,0.9500000000000028,Heard
+DA69570119B24065909EFD08179AB45A,"I have heard of it, but I am not familiar with it",71,University of Alberta,0.33,42.6,28.4,Heard
+66D0B254AB944CC38DD3DC8F212C6D66,"I have heard of it, but I am not familiar with it",77,University of Alberta,0.33,72.7,4.299999999999997,Heard
+38C7B4CC15C54D5F98F166C1BD1995F2,"I have heard of it, but I am not familiar with it",50,University of Alberta,0.33,49.95,0.04999999999999716,Heard
+3BB9F558B79A4B22A71CF00356573354,"I have heard of it, but I am not familiar with it",80,University of Alberta,0.33,70.0,10.0,Heard
+A564C1C5538C48D0874D3CC48612419D,"I have heard of it, but I am not familiar with it",65,University of Alberta,0.33,39.6,25.4,Heard
+BE48927354EC40329D644A03693519C9,"I have heard of it, but I am not familiar with it",75,University of Alberta,0.33,65.5,9.5,Heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,57,University of Alberta,0.0,49.1,7.899999999999999,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,University of Alberta,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,"I have heard of it, but I am not familiar with it",80,University of Alberta,0.33,62.95,17.049999999999997,Heard
+CA98B80CF2DD496FA96DF87A76EE59D0,"I have heard of it, but I am not familiar with it",95,University of Alberta,0.33,87.55,7.450000000000003,Heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",80,University of Alberta,0.33,79.05,0.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,46,University of Alberta,0.0,51.7,-5.700000000000003,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,21,University of Alberta,0.0,11.2,9.8,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",41,University of Alberta,0.33,29.35,11.649999999999999,Heard
+4262AFB86C594D08B28F0F91D674E4EB,"I have heard of it, but I am not familiar with it",51,University of Alberta,0.33,42.55,8.450000000000003,Heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,56,University of Alberta,0.0,59.9,-3.8999999999999986,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,"I have heard of it, but I am not familiar with it",78,University of Glasgow,0.33,10.3,67.7,Heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,46,University of Glasgow,0.0,43.85,2.1499999999999986,Never heard
+8C7EAE2BB6894644BB2220D74032427A,"I have heard of it, but I am not familiar with it",74,University of Glasgow,0.33,71.15,2.8499999999999943,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,"I have heard of it, but I am not familiar with it",70,University of Glasgow,0.33,68.4,1.5999999999999943,Heard
+A53D15311E1A4E7BB8D9FDD5135514FC,"I have heard of it, but I am not familiar with it",79,University of Glasgow,0.33,35.8,43.2,Heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,University of Glasgow,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,"I have heard of it, but I am not familiar with it",70,University of Glasgow,0.33,53.45,16.549999999999997,Heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,34,University of Glasgow,0.0,21.25,12.75,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,University of Glasgow,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I am somewhat familiar with it,45,University of Glasgow,0.6,42.25,2.75,Heard
+BD4E57AB370D4528A3DF938AE8F27B01,"I have heard of it, but I am not familiar with it",90,University of Glasgow,0.33,90.95,-0.9500000000000028,Heard
+6AC71943F1C544D1B30EB1036D21CA0D,"I have heard of it, but I am not familiar with it",74,University of Glasgow,0.33,59.85,14.149999999999999,Heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",50,University of Glasgow,0.33,41.85,8.149999999999999,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,20,University of Glasgow,0.0,43.0,-23.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",34,University of Glasgow,0.33,28.1,5.899999999999999,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,"I have heard of it, but I am not familiar with it",62,University of Glasgow,0.33,60.0,2.0,Heard
+3D7D72CEA1F6413D961CE185176CE502,I am somewhat familiar with it,64,University of Glasgow,0.6,65.05,-1.0499999999999972,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,"I have heard of it, but I am not familiar with it",90,University of Glasgow,0.33,79.0,11.0,Heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,University of Glasgow,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,"I have heard of it, but I am not familiar with it",69,University of Glasgow,0.33,63.4,5.600000000000001,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,60,University of Glasgow,0.0,44.55,15.450000000000003,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,12,University of Glasgow,0.0,15.45,-3.4499999999999993,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,"I have heard of it, but I am not familiar with it",30,University of Glasgow,0.33,44.0,-14.0,Heard
+EE5F963F39674CACA41B0DDC1595BFC0,I am somewhat familiar with it,10,University of Glasgow,0.6,13.55,-3.5500000000000007,Heard
+9C9BF153F23143F28476E316F8F2010D,"I have heard of it, but I am not familiar with it",24,University of Glasgow,0.33,19.25,4.75,Heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,72,University of Glasgow,0.6,70.1,1.9000000000000057,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,81,University of Glasgow,0.0,82.25,-1.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",80,University of Glasgow,0.33,69.65,10.349999999999994,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,38,University of Glasgow,0.0,23.3,14.7,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,16,University of Glasgow,0.0,17.0,-1.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,"I have heard of it, but I am not familiar with it",50,University of Glasgow,0.33,49.7,0.29999999999999716,Heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,55,University of Glasgow,0.0,61.25,-6.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,"I have heard of it, but I am not familiar with it",71,University of Glasgow,0.33,69.1,1.9000000000000057,Heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,53,University of Glasgow,0.0,71.05,-18.049999999999997,Never heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,33,University of Glasgow,0.0,42.6,-9.600000000000001,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,75,University of Glasgow,0.0,72.7,2.299999999999997,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,49,University of Glasgow,0.0,49.95,-0.9500000000000028,Never heard
+3BB9F558B79A4B22A71CF00356573354,"I have heard of it, but I am not familiar with it",75,University of Glasgow,0.33,70.0,5.0,Heard
+A564C1C5538C48D0874D3CC48612419D,"I have heard of it, but I am not familiar with it",39,University of Glasgow,0.33,39.6,-0.6000000000000014,Heard
+BE48927354EC40329D644A03693519C9,"I have heard of it, but I am not familiar with it",75,University of Glasgow,0.33,65.5,9.5,Heard
+23B7335472A1407BA6C9CDF60958C918,"I have heard of it, but I am not familiar with it",51,University of Glasgow,0.33,49.1,1.8999999999999986,Heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,"I have heard of it, but I am not familiar with it",70,University of Glasgow,0.33,56.35,13.649999999999999,Heard
+3DD4464BB2A5434DA776B499B7D4BEE8,"I have heard of it, but I am not familiar with it",55,University of Glasgow,0.33,62.95,-7.950000000000003,Heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,90,University of Glasgow,0.0,87.55,2.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",78,University of Glasgow,0.33,79.05,-1.0499999999999972,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I am somewhat familiar with it,55,University of Glasgow,0.6,51.7,3.299999999999997,Heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,10,University of Glasgow,0.0,11.2,-1.1999999999999993,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,University of Glasgow,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,48,University of Glasgow,0.0,42.55,5.450000000000003,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,65,University of Glasgow,0.0,59.9,5.100000000000001,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I am somewhat familiar with it,27,University of Leeds,0.6,10.3,16.7,Heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,68,University of Leeds,0.0,43.85,24.15,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I am somewhat familiar with it,90,University of Leeds,0.6,71.15,18.849999999999994,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,"I have heard of it, but I am not familiar with it",70,University of Leeds,0.33,68.4,1.5999999999999943,Heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,23,University of Leeds,0.0,35.8,-12.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,University of Leeds,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,52,University of Leeds,0.0,53.45,-1.4500000000000028,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,30,University of Leeds,0.0,21.25,8.75,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,University of Leeds,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,50,University of Leeds,0.0,42.25,7.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I am somewhat familiar with it,100,University of Leeds,0.6,90.95,9.049999999999997,Heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,70,University of Leeds,0.0,59.85,10.149999999999999,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,10,University of Leeds,0.0,41.85,-31.85,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,42,University of Leeds,0.0,43.0,-1.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",32,University of Leeds,0.33,28.1,3.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,"I have heard of it, but I am not familiar with it",80,University of Leeds,0.33,60.0,20.0,Heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",61,University of Leeds,0.33,65.05,-4.049999999999997,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,76,University of Leeds,0.0,79.0,-3.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,"I have heard of it, but I am not familiar with it",80,University of Leeds,0.33,79.0,1.0,Heard
+2649AA17B0054500A9C624077A71F95E,I am somewhat familiar with it,76,University of Leeds,0.6,63.4,12.600000000000001,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,90,University of Leeds,0.0,44.55,45.45,Never heard
+09A54B497E63405482AE17D913E2D5C2,I am very familiar with it,15,University of Leeds,1.0,15.45,-0.4499999999999993,Heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,49,University of Leeds,0.0,44.0,5.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I am somewhat familiar with it,10,University of Leeds,0.6,13.55,-3.5500000000000007,Heard
+9C9BF153F23143F28476E316F8F2010D,"I have heard of it, but I am not familiar with it",31,University of Leeds,0.33,19.25,11.75,Heard
+8BCB509032C148C7B1809382C5D2D30B,"I have heard of it, but I am not familiar with it",71,University of Leeds,0.33,70.1,0.9000000000000057,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,University of Leeds,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,54,University of Leeds,0.0,69.65,-15.650000000000006,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,30,University of Leeds,0.0,23.3,6.699999999999999,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,15,University of Leeds,0.0,17.0,-2.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,50,University of Leeds,0.0,49.7,0.29999999999999716,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,55,University of Leeds,0.0,61.25,-6.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,"I have heard of it, but I am not familiar with it",71,University of Leeds,0.33,69.1,1.9000000000000057,Heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I am somewhat familiar with it,80,University of Leeds,0.6,71.05,8.950000000000003,Heard
+DA69570119B24065909EFD08179AB45A,"I have heard of it, but I am not familiar with it",30,University of Leeds,0.33,42.6,-12.600000000000001,Heard
+66D0B254AB944CC38DD3DC8F212C6D66,"I have heard of it, but I am not familiar with it",75,University of Leeds,0.33,72.7,2.299999999999997,Heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,University of Leeds,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,"I have heard of it, but I am not familiar with it",75,University of Leeds,0.33,70.0,5.0,Heard
+A564C1C5538C48D0874D3CC48612419D,"I have heard of it, but I am not familiar with it",43,University of Leeds,0.33,39.6,3.3999999999999986,Heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,University of Leeds,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,40,University of Leeds,0.0,49.1,-9.100000000000001,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,"I have heard of it, but I am not familiar with it",59,University of Leeds,0.33,56.35,2.6499999999999986,Heard
+3DD4464BB2A5434DA776B499B7D4BEE8,"I have heard of it, but I am not familiar with it",82,University of Leeds,0.33,62.95,19.049999999999997,Heard
+CA98B80CF2DD496FA96DF87A76EE59D0,"I have heard of it, but I am not familiar with it",90,University of Leeds,0.33,87.55,2.450000000000003,Heard
+4F9F4E86E246433F89623B433B1AB8B8,I am somewhat familiar with it,78,University of Leeds,0.6,79.05,-1.0499999999999972,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,48,University of Leeds,0.0,51.7,-3.700000000000003,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,6,University of Leeds,0.0,11.2,-5.199999999999999,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,University of Leeds,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,"I have heard of it, but I am not familiar with it",60,University of Leeds,0.33,42.55,17.450000000000003,Heard
+A55A273E95E740CF987A0746A8D05865,"I have heard of it, but I am not familiar with it",57,University of Leeds,0.33,59.9,-2.8999999999999986,Heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,University of Nottingham,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,56,University of Nottingham,0.0,43.85,12.149999999999999,Never heard
+8C7EAE2BB6894644BB2220D74032427A,"I have heard of it, but I am not familiar with it",71,University of Nottingham,0.33,71.15,-0.15000000000000568,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,University of Nottingham,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,"I have heard of it, but I am not familiar with it",61,University of Nottingham,0.33,35.8,25.200000000000003,Heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,University of Nottingham,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,59,University of Nottingham,0.0,53.45,5.549999999999997,Never heard
+06F824C0E70043649B07F6BAA528B658,"I have heard of it, but I am not familiar with it",29,University of Nottingham,0.33,21.25,7.75,Heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,60,University of Nottingham,0.0,59.7,0.29999999999999716,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,25,University of Nottingham,0.0,42.25,-17.25,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,90,University of Nottingham,0.0,90.95,-0.9500000000000028,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,70,University of Nottingham,0.0,59.85,10.149999999999999,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",31,University of Nottingham,0.33,41.85,-10.850000000000001,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,11,University of Nottingham,0.0,43.0,-32.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",30,University of Nottingham,0.33,28.1,1.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,"I have heard of it, but I am not familiar with it",81,University of Nottingham,0.33,60.0,21.0,Heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",63,University of Nottingham,0.33,65.05,-2.049999999999997,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,87,University of Nottingham,0.0,79.0,8.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,University of Nottingham,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,40,University of Nottingham,0.0,63.4,-23.4,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,90,University of Nottingham,0.0,44.55,45.45,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,13,University of Nottingham,0.0,15.45,-2.4499999999999993,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,51,University of Nottingham,0.0,44.0,7.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,University of Nottingham,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,12,University of Nottingham,0.0,19.25,-7.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,70,University of Nottingham,0.6,70.1,-0.09999999999999432,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,University of Nottingham,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",69,University of Nottingham,0.33,69.65,-0.6500000000000057,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,11,University of Nottingham,0.0,23.3,-12.3,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,14,University of Nottingham,0.0,17.0,-3.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,"I have heard of it, but I am not familiar with it",61,University of Nottingham,0.33,49.7,11.299999999999997,Heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,55,University of Nottingham,0.0,61.25,-6.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,70,University of Nottingham,0.0,69.1,0.9000000000000057,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,"I have heard of it, but I am not familiar with it",72,University of Nottingham,0.33,71.05,0.9500000000000028,Heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,31,University of Nottingham,0.0,42.6,-11.600000000000001,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,75,University of Nottingham,0.0,72.7,2.299999999999997,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,University of Nottingham,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,65,University of Nottingham,0.0,70.0,-5.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,37,University of Nottingham,0.0,39.6,-2.6000000000000014,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,University of Nottingham,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,46,University of Nottingham,0.0,49.1,-3.1000000000000014,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,"I have heard of it, but I am not familiar with it",70,University of Nottingham,0.33,56.35,13.649999999999999,Heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,59,University of Nottingham,0.0,62.95,-3.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,90,University of Nottingham,0.0,87.55,2.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",80,University of Nottingham,0.33,79.05,0.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,"I have heard of it, but I am not familiar with it",50,University of Nottingham,0.33,51.7,-1.7000000000000028,Heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,8,University of Nottingham,0.0,11.2,-3.1999999999999993,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,University of Nottingham,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,"I have heard of it, but I am not familiar with it",60,University of Nottingham,0.33,42.55,17.450000000000003,Heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,65,University of Nottingham,0.0,59.9,5.100000000000001,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,University of Sheffield,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,45,University of Sheffield,0.0,43.85,1.1499999999999986,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I am very familiar with it,83,University of Sheffield,1.0,71.15,11.849999999999994,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,University of Sheffield,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,39,University of Sheffield,0.0,35.8,3.200000000000003,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,University of Sheffield,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,41,University of Sheffield,0.0,53.45,-12.450000000000003,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,25,University of Sheffield,0.0,21.25,3.75,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,60,University of Sheffield,0.0,59.7,0.29999999999999716,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,30,University of Sheffield,0.0,42.25,-12.25,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,90,University of Sheffield,0.0,90.95,-0.9500000000000028,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,72,University of Sheffield,0.0,59.85,12.149999999999999,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",50,University of Sheffield,0.33,41.85,8.149999999999999,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,10,University of Sheffield,0.0,43.0,-33.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",29,University of Sheffield,0.33,28.1,0.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,53,University of Sheffield,0.0,60.0,-7.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,"I have heard of it, but I am not familiar with it",63,University of Sheffield,0.33,65.05,-2.049999999999997,Heard
+ED3568FECEB9427CAEEF86F3460C6B8A,"I have heard of it, but I am not familiar with it",87,University of Sheffield,0.33,79.0,8.0,Heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,University of Sheffield,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,"I have heard of it, but I am not familiar with it",72,University of Sheffield,0.33,63.4,8.600000000000001,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,40,University of Sheffield,0.0,44.55,-4.549999999999997,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,7,University of Sheffield,0.0,15.45,-8.45,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,50,University of Sheffield,0.0,44.0,6.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,11,University of Sheffield,0.0,13.55,-2.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,11,University of Sheffield,0.0,19.25,-8.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,80,University of Sheffield,0.6,70.1,9.900000000000006,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,University of Sheffield,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",88,University of Sheffield,0.33,69.65,18.349999999999994,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,29,University of Sheffield,0.0,23.3,5.699999999999999,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,15,University of Sheffield,0.0,17.0,-2.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,40,University of Sheffield,0.0,49.7,-9.700000000000003,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,55,University of Sheffield,0.0,61.25,-6.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,68,University of Sheffield,0.0,69.1,-1.0999999999999943,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,"I have heard of it, but I am not familiar with it",80,University of Sheffield,0.33,71.05,8.950000000000003,Heard
+DA69570119B24065909EFD08179AB45A,I have never heard of this university,32,University of Sheffield,0.0,42.6,-10.600000000000001,Never heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,75,University of Sheffield,0.0,72.7,2.299999999999997,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,University of Sheffield,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,70,University of Sheffield,0.0,70.0,0.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,39,University of Sheffield,0.0,39.6,-0.6000000000000014,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,University of Sheffield,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,41,University of Sheffield,0.0,49.1,-8.100000000000001,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,University of Sheffield,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,71,University of Sheffield,0.0,62.95,8.049999999999997,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,90,University of Sheffield,0.0,87.55,2.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",80,University of Sheffield,0.33,79.05,0.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,50,University of Sheffield,0.0,51.7,-1.7000000000000028,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,10,University of Sheffield,0.0,11.2,-1.1999999999999993,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,University of Sheffield,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,"I have heard of it, but I am not familiar with it",50,University of Sheffield,0.33,42.55,7.450000000000003,Heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,52,University of Sheffield,0.0,59.9,-7.899999999999999,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,"I have heard of it, but I am not familiar with it",100,University of Southampton,0.33,10.3,89.7,Heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,19,University of Southampton,0.0,43.85,-24.85,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I am very familiar with it,80,University of Southampton,1.0,71.15,8.849999999999994,Heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,60,University of Southampton,0.0,68.4,-8.400000000000006,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,35,University of Southampton,0.0,35.8,-0.7999999999999972,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,University of Southampton,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,9,University of Southampton,0.0,53.45,-44.45,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,29,University of Southampton,0.0,21.25,7.75,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,61,University of Southampton,0.0,59.7,1.2999999999999972,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,50,University of Southampton,0.0,42.25,7.75,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,80,University of Southampton,0.0,90.95,-10.950000000000003,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,67,University of Southampton,0.0,59.85,7.149999999999999,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,"I have heard of it, but I am not familiar with it",50,University of Southampton,0.33,41.85,8.149999999999999,Heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,26,University of Southampton,0.0,43.0,-17.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,"I have heard of it, but I am not familiar with it",29,University of Southampton,0.33,28.1,0.8999999999999986,Heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,47,University of Southampton,0.0,60.0,-13.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,I have never heard of this university,63,University of Southampton,0.0,65.05,-2.049999999999997,Never heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,76,University of Southampton,0.0,79.0,-3.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,80,University of Southampton,0.0,79.0,1.0,Never heard
+2649AA17B0054500A9C624077A71F95E,"I have heard of it, but I am not familiar with it",48,University of Southampton,0.33,63.4,-15.399999999999999,Heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,80,University of Southampton,0.0,44.55,35.45,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,8,University of Southampton,0.0,15.45,-7.449999999999999,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,51,University of Southampton,0.0,44.0,7.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,I have never heard of this university,10,University of Southampton,0.0,13.55,-3.5500000000000007,Never heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,12,University of Southampton,0.0,19.25,-7.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,59,University of Southampton,0.6,70.1,-11.099999999999994,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,I have never heard of this university,80,University of Southampton,0.0,82.25,-2.25,Never heard
+43B38C5A971146D5A03772B7DE77B79F,"I have heard of it, but I am not familiar with it",72,University of Southampton,0.33,69.65,2.3499999999999943,Heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,33,University of Southampton,0.0,23.3,9.7,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,16,University of Southampton,0.0,17.0,-1.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,50,University of Southampton,0.0,49.7,0.29999999999999716,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,"I have heard of it, but I am not familiar with it",55,University of Southampton,0.33,61.25,-6.25,Heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,69,University of Southampton,0.0,69.1,-0.09999999999999432,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,"I have heard of it, but I am not familiar with it",79,University of Southampton,0.33,71.05,7.950000000000003,Heard
+DA69570119B24065909EFD08179AB45A,"I have heard of it, but I am not familiar with it",36,University of Southampton,0.33,42.6,-6.600000000000001,Heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,75,University of Southampton,0.0,72.7,2.299999999999997,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,University of Southampton,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,70,University of Southampton,0.0,70.0,0.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,32,University of Southampton,0.0,39.6,-7.600000000000001,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,University of Southampton,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,55,University of Southampton,0.0,49.1,5.899999999999999,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,"I have heard of it, but I am not familiar with it",70,University of Southampton,0.33,56.35,13.649999999999999,Heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,60,University of Southampton,0.0,62.95,-2.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,90,University of Southampton,0.0,87.55,2.450000000000003,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",80,University of Southampton,0.33,79.05,0.9500000000000028,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,"I have heard of it, but I am not familiar with it",55,University of Southampton,0.33,51.7,3.299999999999997,Heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,10,University of Southampton,0.0,11.2,-1.1999999999999993,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",29,University of Southampton,0.33,29.35,-0.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,42,University of Southampton,0.0,42.55,-0.5499999999999972,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,67,University of Southampton,0.0,59.9,7.100000000000001,Never heard
+BA46C89FF6D74BBD8CBE20E7D403DFC1,I have never heard of this university,0,Uppsala University,0.0,10.3,-10.3,Never heard
+DDF654B04475461CAA83D9BFD3636F52,I have never heard of this university,29,Uppsala University,0.0,43.85,-14.850000000000001,Never heard
+8C7EAE2BB6894644BB2220D74032427A,I have never heard of this university,76,Uppsala University,0.0,71.15,4.849999999999994,Never heard
+0DD374C49EDD48B0A934A11EB3F114A0,I have never heard of this university,70,Uppsala University,0.0,68.4,1.5999999999999943,Never heard
+A53D15311E1A4E7BB8D9FDD5135514FC,I have never heard of this university,22,Uppsala University,0.0,35.8,-13.799999999999997,Never heard
+08FA9BA3F2E34DE29AD38FC493DDA89A,I have never heard of this university,50,Uppsala University,0.0,50.05,-0.04999999999999716,Never heard
+68DC5E6A091E45CD956DF8AB911197F6,I have never heard of this university,30,Uppsala University,0.0,53.45,-23.450000000000003,Never heard
+06F824C0E70043649B07F6BAA528B658,I have never heard of this university,14,Uppsala University,0.0,21.25,-7.25,Never heard
+44FFB8F0481344DBACD4C9619DEF7E26,I have never heard of this university,50,Uppsala University,0.0,59.7,-9.700000000000003,Never heard
+32CF00ADB1FB42ABA6ECDFD8C63BF3F7,I have never heard of this university,20,Uppsala University,0.0,42.25,-22.25,Never heard
+BD4E57AB370D4528A3DF938AE8F27B01,I have never heard of this university,85,Uppsala University,0.0,90.95,-5.950000000000003,Never heard
+6AC71943F1C544D1B30EB1036D21CA0D,I have never heard of this university,36,Uppsala University,0.0,59.85,-23.85,Never heard
+8E6F027C1F914BEEB26C9D5E528BE427,I have never heard of this university,30,Uppsala University,0.0,41.85,-11.850000000000001,Never heard
+012B4E05E38645C787ADD8FC4C076D2F,I have never heard of this university,21,Uppsala University,0.0,43.0,-22.0,Never heard
+F861EB444C1E4E5E8DFBDC8BE8DA8220,I have never heard of this university,13,Uppsala University,0.0,28.1,-15.100000000000001,Never heard
+8E3466454A314C85BB25FB2C97A4B0D7,I have never heard of this university,53,Uppsala University,0.0,60.0,-7.0,Never heard
+3D7D72CEA1F6413D961CE185176CE502,I have never heard of this university,57,Uppsala University,0.0,65.05,-8.049999999999997,Never heard
+ED3568FECEB9427CAEEF86F3460C6B8A,I have never heard of this university,70,Uppsala University,0.0,79.0,-9.0,Never heard
+0A79EE9ED56E4610A3DDC4838DD31548,I have never heard of this university,70,Uppsala University,0.0,79.0,-9.0,Never heard
+2649AA17B0054500A9C624077A71F95E,I have never heard of this university,35,Uppsala University,0.0,63.4,-28.4,Never heard
+086CA0EE50924484BA40BE283B35A167,I have never heard of this university,10,Uppsala University,0.0,44.55,-34.55,Never heard
+09A54B497E63405482AE17D913E2D5C2,I have never heard of this university,12,Uppsala University,0.0,15.45,-3.4499999999999993,Never heard
+4068D798CA4F443EBDA0836A346C7FAA,I have never heard of this university,50,Uppsala University,0.0,44.0,6.0,Never heard
+EE5F963F39674CACA41B0DDC1595BFC0,"I have heard of it, but I am not familiar with it",30,Uppsala University,0.33,13.55,16.45,Heard
+9C9BF153F23143F28476E316F8F2010D,I have never heard of this university,12,Uppsala University,0.0,19.25,-7.25,Never heard
+8BCB509032C148C7B1809382C5D2D30B,I am somewhat familiar with it,68,Uppsala University,0.6,70.1,-2.0999999999999943,Heard
+C9A88F513C0D43FEAAB91ABE7D2A2DFB,"I have heard of it, but I am not familiar with it",80,Uppsala University,0.33,82.25,-2.25,Heard
+43B38C5A971146D5A03772B7DE77B79F,I have never heard of this university,54,Uppsala University,0.0,69.65,-15.650000000000006,Never heard
+BE40A747DDDC4C159920E7D896B0C43B,I have never heard of this university,0,Uppsala University,0.0,23.3,-23.3,Never heard
+E64CD767B60A44B3AD2ADED7AE7B102E,I have never heard of this university,18,Uppsala University,0.0,17.0,1.0,Never heard
+CA5C57C8B03848C0932DBDEA6A6098F9,I have never heard of this university,30,Uppsala University,0.0,49.7,-19.700000000000003,Never heard
+D8F75C14EAF24D879F6D31BBCCB9D69B,I have never heard of this university,60,Uppsala University,0.0,61.25,-1.25,Never heard
+C5F739838F84491FBB3DF6EB57A21B8C,I have never heard of this university,64,Uppsala University,0.0,69.1,-5.099999999999994,Never heard
+752C3F34BECF4DD5B82BF6A06BDC15A6,I have never heard of this university,51,Uppsala University,0.0,71.05,-20.049999999999997,Never heard
+DA69570119B24065909EFD08179AB45A,"I have heard of it, but I am not familiar with it",69,Uppsala University,0.33,42.6,26.4,Heard
+66D0B254AB944CC38DD3DC8F212C6D66,I have never heard of this university,70,Uppsala University,0.0,72.7,-2.700000000000003,Never heard
+38C7B4CC15C54D5F98F166C1BD1995F2,I have never heard of this university,50,Uppsala University,0.0,49.95,0.04999999999999716,Never heard
+3BB9F558B79A4B22A71CF00356573354,I have never heard of this university,45,Uppsala University,0.0,70.0,-25.0,Never heard
+A564C1C5538C48D0874D3CC48612419D,I have never heard of this university,80,Uppsala University,0.0,39.6,40.4,Never heard
+BE48927354EC40329D644A03693519C9,I have never heard of this university,65,Uppsala University,0.0,65.5,-0.5,Never heard
+23B7335472A1407BA6C9CDF60958C918,I have never heard of this university,38,Uppsala University,0.0,49.1,-11.100000000000001,Never heard
+0C2FBF0AC86342FE9EC2B6FBA2407A60,I have never heard of this university,50,Uppsala University,0.0,56.35,-6.350000000000001,Never heard
+3DD4464BB2A5434DA776B499B7D4BEE8,I have never heard of this university,52,Uppsala University,0.0,62.95,-10.950000000000003,Never heard
+CA98B80CF2DD496FA96DF87A76EE59D0,I have never heard of this university,75,Uppsala University,0.0,87.55,-12.549999999999997,Never heard
+4F9F4E86E246433F89623B433B1AB8B8,"I have heard of it, but I am not familiar with it",86,Uppsala University,0.33,79.05,6.950000000000003,Heard
+204B41ECB5F84D2C8812CCA7C0ABD0ED,I have never heard of this university,50,Uppsala University,0.0,51.7,-1.7000000000000028,Never heard
+1B7CB68BEA6643B4B5C93CAAC59B1B85,I have never heard of this university,19,Uppsala University,0.0,11.2,7.800000000000001,Never heard
+DD2206E20B5F43EBB14E45E033A403E9,"I have heard of it, but I am not familiar with it",26,Uppsala University,0.33,29.35,-3.3500000000000014,Heard
+4262AFB86C594D08B28F0F91D674E4EB,I have never heard of this university,21,Uppsala University,0.0,42.55,-21.549999999999997,Never heard
+A55A273E95E740CF987A0746A8D05865,I have never heard of this university,43,Uppsala University,0.0,59.9,-16.9,Never heard

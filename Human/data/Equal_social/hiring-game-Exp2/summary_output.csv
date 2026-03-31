@@ -1,0 +1,2 @@
+age_mean,age_min,age_max,gender__Female,gender__Male,race__Caucasian,race__Mixed-Race,race__Asian,education__Graduate Professional School,education__Some College,education__College,education__High School,politicalOrientation__Slightly Conservative,politicalOrientation__Moderately Liberal,politicalOrientation__Extremely Liberal,politicalOrientation__Moderately Conservative
+28.1,21,40,0.6,0.4,0.7,0.2,0.1,0.3,0.3,0.2,0.2,0.3,0.3,0.2,0.2

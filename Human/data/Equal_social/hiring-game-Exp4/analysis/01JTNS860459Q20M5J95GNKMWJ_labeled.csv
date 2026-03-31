@@ -1,0 +1,54 @@
+Round,Choice,Reward,Last Choice,Last Reward,Majority Choice Prev,Cumulative Best Choices,Judgment,Pattern,Strategy
+0,,,,,,,N/A,N/A,N/A+N/A
+1,Pink,1.0,,,,,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+2,,,Pink,1.0,Crimson,"Sky Blue, Pink, Black, Indigo, Orange, Slate, Crimson",N/A,N/A,N/A+N/A
+3,,,,,Sky Blue,Sky Blue,N/A,N/A,N/A+N/A
+4,Indigo,0.0,,,Sky Blue,Sky Blue,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+5,Slate,1.0,Indigo,0.0,Sky Blue,Sky Blue,Contrarian,Lose-Shift,Contrarian+Lose-Shift
+6,Sky Blue,0.0,Slate,1.0,Sky Blue,Sky Blue,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+7,Sky Blue,0.0,Sky Blue,0.0,Sky Blue,Sky Blue,Majority-Biased,Lose-Stay,Majority-Biased+Lose-Stay
+8,Sky Blue,1.0,Sky Blue,0.0,Sky Blue,Sky Blue,Majority-Biased,Lose-Stay,Majority-Biased+Lose-Stay
+9,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+10,Slate,1.0,Sky Blue,1.0,Slate,Sky Blue,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+11,Slate,1.0,Slate,1.0,Slate,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+12,Slate,1.0,Slate,1.0,Slate,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+13,Slate,1.0,Slate,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+14,Slate,1.0,Slate,1.0,Slate,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+15,Slate,1.0,Slate,1.0,Slate,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+16,Slate,1.0,Slate,1.0,Slate,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+17,Slate,1.0,Slate,1.0,Slate,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+18,Slate,0.0,Slate,1.0,Slate,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+19,Slate,0.0,Slate,0.0,Sky Blue,Sky Blue,Contrarian,Lose-Stay,Contrarian+Lose-Stay
+20,Sky Blue,1.0,Slate,0.0,Sky Blue,Sky Blue,Majority-Biased,Lose-Shift,Majority-Biased+Lose-Shift
+21,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+22,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+23,Sky Blue,0.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+24,Sky Blue,1.0,Sky Blue,0.0,Sky Blue,Sky Blue,Majority-Biased,Lose-Stay,Majority-Biased+Lose-Stay
+25,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+26,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+27,Crimson,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+28,Crimson,1.0,Crimson,1.0,Sky Blue,Sky Blue,Contrarian,Win-Stay,Contrarian+Win-Stay
+29,Sky Blue,1.0,Crimson,1.0,Crimson,Sky Blue,Social-Exploit,Switch-After-Win,Social-Exploit+Switch-After-Win
+30,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+31,Sky Blue,1.0,Sky Blue,1.0,Crimson,Sky Blue,Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+32,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+33,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+34,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+35,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+36,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+37,Orange,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+38,Sky Blue,1.0,Orange,1.0,Sky Blue,Sky Blue,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+39,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+40,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+41,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+42,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+43,Sky Blue,0.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+44,Sky Blue,1.0,Sky Blue,0.0,Sky Blue,Sky Blue,Majority-Biased,Lose-Stay,Majority-Biased+Lose-Stay
+45,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+46,Sky Blue,1.0,Sky Blue,1.0,Crimson,Sky Blue,Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+47,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+48,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+49,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+50,Sky Blue,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+51,Crimson,1.0,Sky Blue,1.0,Sky Blue,Sky Blue,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+52,,,Crimson,1.0,Sky Blue,Sky Blue,N/A,N/A,N/A+N/A

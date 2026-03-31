@@ -1,0 +1,54 @@
+Round,Choice,Reward,Last Choice,Last Reward,Majority Choice Prev,Cumulative Best Choices,Judgment,Pattern,Strategy
+0,,,,,,,N/A,N/A,N/A+N/A
+1,Purple,1.0,,,,,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+2,Purple,1.0,Purple,1.0,Crimson,"Pink, Amber, Purple, Bright Green, Slate",Social-Exploit,Win-Stay,Social-Exploit+Win-Stay
+3,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+4,Bright Green,1.0,Purple,1.0,Bright Green,Bright Green,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+5,Purple,1.0,Bright Green,1.0,Bright Green,Bright Green,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+6,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+7,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+8,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+9,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+10,Purple,0.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+11,Bright Green,1.0,Purple,0.0,Bright Green,Bright Green,Majority-Biased,Lose-Shift,Majority-Biased+Lose-Shift
+12,Purple,0.0,Bright Green,1.0,Bright Green,Bright Green,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+13,Bright Green,1.0,Purple,0.0,Bright Green,Bright Green,Majority-Biased,Lose-Shift,Majority-Biased+Lose-Shift
+14,Purple,1.0,Bright Green,1.0,Bright Green,Bright Green,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+15,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+16,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+17,Bright Green,0.0,Purple,1.0,Bright Green,Bright Green,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+18,Purple,1.0,Bright Green,0.0,Bright Green,Bright Green,Contrarian,Lose-Shift,Contrarian+Lose-Shift
+19,Bright Green,1.0,Purple,1.0,Bright Green,Bright Green,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+20,Purple,1.0,Bright Green,1.0,Bright Green,Bright Green,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+21,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+22,,,Purple,1.0,Bright Green,Bright Green,N/A,N/A,N/A+N/A
+23,,,,,Bright Green,Bright Green,N/A,N/A,N/A+N/A
+24,Purple,1.0,,,Bright Green,Bright Green,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+25,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+26,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+27,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+28,Purple,1.0,Purple,1.0,Sky Blue,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+29,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+30,Purple,1.0,Purple,1.0,Amber,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+31,Purple,0.0,Purple,1.0,Amber,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+32,Purple,1.0,Purple,0.0,Sky Blue,Bright Green,Contrarian,Lose-Stay,Contrarian+Lose-Stay
+33,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+34,Purple,1.0,Purple,1.0,Amber,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+35,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+36,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+37,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+38,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+39,Purple,1.0,Purple,1.0,Amber,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+40,Purple,1.0,Purple,1.0,Amber,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+41,,,Purple,1.0,Amber,Bright Green,N/A,N/A,N/A+N/A
+42,Purple,1.0,,,Bright Green,Bright Green,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+43,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+44,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+45,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+46,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+47,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+48,Purple,1.0,Purple,1.0,Amber,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+49,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+50,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+51,Purple,1.0,Purple,1.0,Bright Green,Bright Green,Contrarian,Win-Stay,Contrarian+Win-Stay
+52,,,Purple,1.0,Bright Green,Bright Green,N/A,N/A,N/A+N/A

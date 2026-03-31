@@ -1,0 +1,65 @@
+Hiring experience (relative to Missing) → Entropy (OLS)
+========================================================
+
+R^2 = 0.171
+Adj. R^2 = 0.097
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                entropy   R-squared:                       0.171
+Model:                            OLS   Adj. R-squared:                  0.097
+Method:                 Least Squares   F-statistic:                     2.315
+Date:                Thu, 08 Jan 2026   Prob (F-statistic):           0.000115
+Time:                        22:57:40   Log-Likelihood:                -473.26
+No. Observations:                 393   AIC:                             1013.
+Df Residuals:                     360   BIC:                             1144.
+Df Model:                          32                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================================================================
+                                                                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                                 1.8725      0.295      6.338      0.000       1.292       2.454
+C(gender)[T.Male]                                                         0.0388      0.093      0.419      0.676      -0.144       0.221
+C(gender)[T.Other]                                                       -0.3125      0.648     -0.482      0.630      -1.587       0.962
+C(gender)[T.Prefer not to say]                                           -0.7338      0.514     -1.428      0.154      -1.744       0.276
+C(race)[T.Asian]                                                         -0.6774      0.259     -2.616      0.009      -1.187      -0.168
+C(race)[T.Caucasian]                                                     -0.3143      0.141     -2.222      0.027      -0.593      -0.036
+C(race)[T.Latin/x]                                                       -0.0454      0.232     -0.196      0.845      -0.502       0.411
+C(race)[T.Mixed-Race]                                                    -0.3164      0.252     -1.254      0.211      -0.813       0.180
+C(race)[T.Native American]                                                0.2470      0.384      0.643      0.521      -0.508       1.002
+C(race)[T.Other]                                                          0.3731      0.385      0.970      0.333      -0.383       1.130
+C(education)[T.Graduate Professional School]                              0.0139      0.119      0.117      0.907      -0.220       0.248
+C(education)[T.High School]                                              -0.0280      0.171     -0.164      0.870      -0.364       0.308
+C(education)[T.Other]                                                    -1.2117      0.727     -1.667      0.096      -2.641       0.218
+C(education)[T.Prefer not to say]                                        -0.2796      0.502     -0.557      0.578      -1.266       0.707
+C(education)[T.Some College]                                             -0.1372      0.118     -1.166      0.245      -0.369       0.094
+C(political)[T.Extremely Liberal]                                         0.2609      0.196      1.332      0.184      -0.124       0.646
+C(political)[T.Moderately Conservative]                                   0.3077      0.220      1.401      0.162      -0.124       0.740
+C(political)[T.Moderately Liberal]                                        0.1407      0.201      0.699      0.485      -0.255       0.536
+C(political)[T.Prefer not to say]                                         0.2756      0.344      0.802      0.423      -0.401       0.952
+C(political)[T.Slightly Conservative]                                     0.1076      0.223      0.482      0.630      -0.332       0.547
+C(political)[T.Slightly Liberal]                                          0.2368      0.202      1.173      0.242      -0.160       0.634
+C(hiringYearsCat, Treatment(reference='Missing'))[T.1–3 years]            0.0628      0.126      0.498      0.619      -0.185       0.311
+C(hiringYearsCat, Treatment(reference='Missing'))[T.4–6 years]            0.0398      0.152      0.261      0.794      -0.260       0.340
+C(hiringYearsCat, Treatment(reference='Missing'))[T.7+ years]            -0.0061      0.131     -0.046      0.963      -0.264       0.252
+C(hiringYearsCat, Treatment(reference='Missing'))[T.Less than 1 year]    -0.1730      0.265     -0.653      0.514      -0.694       0.348
+C(employmentStatusCat)[T.Employed part-time]                              0.1387      0.167      0.829      0.408      -0.190       0.468
+C(employmentStatusCat)[T.Other]                                           0.2945      0.349      0.845      0.399      -0.391       0.980
+C(employmentStatusCat)[T.Self-employed]                                  -0.1266      0.206     -0.616      0.538      -0.531       0.278
+C(employmentStatusCat)[T.Student]                                         0.0109      0.204      0.054      0.957      -0.390       0.411
+C(employmentStatusCat)[T.Unemployed]                                      0.1725      0.165      1.048      0.296      -0.151       0.496
+C(employmentStatusCat)[T.nan]                                         -2.248e-15   3.68e-15     -0.612      0.541   -9.48e-15    4.98e-15
+isSocial                                                                 -0.5823      0.089     -6.544      0.000      -0.757      -0.407
+age                                                                      -0.0029      0.004     -0.667      0.505      -0.011       0.006
+hasFamiliarUniversity                                                    -0.0431      0.094     -0.457      0.648      -0.229       0.142
+==============================================================================
+Omnibus:                        1.041   Durbin-Watson:                   1.976
+Prob(Omnibus):                  0.594   Jarque-Bera (JB):                1.060
+Skew:                          -0.021   Prob(JB):                        0.589
+Kurtosis:                       2.749   Cond. No.                     1.05e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 7.02e-27. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

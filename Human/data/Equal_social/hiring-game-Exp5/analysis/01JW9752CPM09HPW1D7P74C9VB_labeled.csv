@@ -1,0 +1,54 @@
+Round,Choice,Reward,Last Choice,Last Reward,Majority Choice Prev,Cumulative Best Choices,Judgment,Pattern,Strategy
+0,,,,,,,N/A,N/A,N/A+N/A
+1,Bright Green,0.0,,,,,Contrarian,Switch-After-Win,Contrarian+Switch-After-Win
+2,Purple,1.0,Bright Green,0.0,Crimson,"Pink, Black, Amber, Indigo, Purple, Orange, Slate, Crimson",Social-Exploit,Lose-Shift,Social-Exploit+Lose-Shift
+3,Purple,1.0,Purple,1.0,Black,"Slate, Black",Contrarian,Win-Stay,Contrarian+Win-Stay
+4,Slate,1.0,Purple,1.0,Slate,Slate,Majority-Biased,Switch-After-Win,Majority-Biased+Switch-After-Win
+5,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+6,Slate,0.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+7,Purple,1.0,Slate,0.0,Slate,Slate,Contrarian,Lose-Shift,Contrarian+Lose-Shift
+8,Purple,1.0,Purple,1.0,Purple,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+9,Slate,1.0,Purple,1.0,Purple,Slate,Social-Exploit,Switch-After-Win,Social-Exploit+Switch-After-Win
+10,Slate,0.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+11,Slate,1.0,Slate,0.0,Slate,Slate,Majority-Biased,Lose-Stay,Majority-Biased+Lose-Stay
+12,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+13,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+14,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+15,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+16,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+17,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+18,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+19,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+20,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+21,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+22,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+23,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+24,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+25,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+26,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+27,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+28,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+29,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+30,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+31,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+32,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+33,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+34,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+35,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+36,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+37,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+38,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+39,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+40,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+41,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+42,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+43,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+44,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+45,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+46,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+47,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+48,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+49,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+50,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+51,Slate,1.0,Slate,1.0,Slate,Slate,Majority-Biased,Win-Stay,Majority-Biased+Win-Stay
+52,,,Slate,1.0,Slate,Slate,N/A,N/A,N/A+N/A

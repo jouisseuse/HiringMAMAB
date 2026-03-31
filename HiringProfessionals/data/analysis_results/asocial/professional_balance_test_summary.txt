@@ -1,0 +1,59 @@
+R^2 = 0.107
+Adj. R^2 = -0.046
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                entropy   R-squared:                       0.107
+Model:                            OLS   Adj. R-squared:                 -0.046
+Method:                 Least Squares   F-statistic:                    0.6989
+Date:                Fri, 02 Jan 2026   Prob (F-statistic):              0.872
+Time:                        22:18:39   Log-Likelihood:                -267.19
+No. Observations:                 200   AIC:                             594.4
+Df Residuals:                     170   BIC:                             693.3
+Df Model:                          29                                         
+Covariance Type:            nonrobust                                         
+==============================================================================================================================
+                                                                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                      1.2708      0.234      5.420      0.000       0.808       1.734
+hasFamiliarUniversity[T.True]                                 -0.0542      0.164     -0.330      0.741      -0.378       0.270
+hiringInvolvedFlag[T.True]                                     0.6073      0.158      3.835      0.000       0.295       0.920
+C(hiringYearsCat)[T.4–6 years]                                 0.3594      0.270      1.333      0.184      -0.173       0.892
+C(hiringYearsCat)[T.7+ years]                                 -0.1362      0.213     -0.640      0.523      -0.556       0.284
+C(hiringYearsCat)[T.Less than 1 year]                         -0.1134      0.484     -0.234      0.815      -1.070       0.843
+C(hiringYearsCat)[T.Missing]                                   0.6636      0.159      4.177      0.000       0.350       0.977
+C(employmentStatusCat)[T.Employed part-time]                  -0.0430      0.252     -0.170      0.865      -0.541       0.455
+C(employmentStatusCat)[T.Other]                                0.3786      0.642      0.590      0.556      -0.888       1.645
+C(employmentStatusCat)[T.Self-employed]                       -0.1051      0.314     -0.335      0.738      -0.725       0.515
+C(employmentStatusCat)[T.Student]                              0.2857      0.336      0.850      0.397      -0.378       0.949
+C(employmentStatusCat)[T.Unemployed]                           0.3614      0.285      1.268      0.206      -0.201       0.924
+C(experimentFolder)[T.hiring-game-2025-12-17-04-20-51]        -0.2245      0.475     -0.473      0.637      -1.162       0.713
+C(experimentFolder)[T.hiring-game-2025-12-17-22-22-13]        -0.0924      0.454     -0.203      0.839      -0.989       0.804
+C(experimentFolder)[T.hiring-game-2025-12-18-19-37-44]        -0.7870      0.456     -1.724      0.086      -1.688       0.114
+C(experimentFolder)[T.hiring-game-2025-12-18-20-40-28]        -0.1949      0.459     -0.425      0.672      -1.101       0.711
+C(experimentFolder)[T.hiring-game-2025-12-25-21-56-17]        -0.0608      0.459     -0.132      0.895      -0.967       0.845
+C(experimentFolder)[T.hiring-game-2025-12-26-18-29-53]        -0.6854      0.461     -1.487      0.139      -1.596       0.225
+C(experimentFolder)[T.hiring-game-2025-12-26-19-54-35]        -0.4338      0.454     -0.955      0.341      -1.330       0.463
+C(experimentFolder)[T.hiring-game-2025-12-27-16-30-45]         0.0973      0.455      0.214      0.831      -0.801       0.996
+C(experimentFolder)[T.hiring-game-2025-12-27-17-26-49]        -0.1564      0.476     -0.329      0.743      -1.095       0.783
+C(experimentFolder)[T.hiring-game-2025-12-27-18-03-20]        -0.1439      0.461     -0.312      0.755      -1.053       0.765
+C(experimentFolder)[T.hiring-game-2025-12-28-15-04-25]        -0.4220      0.462     -0.914      0.362      -1.334       0.490
+C(experimentFolder)[T.hiring-game-2025-12-28-15-43-45]        -0.5498      0.461     -1.194      0.234      -1.459       0.359
+C(experimentFolder)[T.hiring-game-2025-12-28-19-01-27]        -0.3311      0.456     -0.726      0.469      -1.231       0.569
+C(experimentFolder)[T.hiring-game-2025-12-28-19-47-49]         0.0731      0.468      0.156      0.876      -0.850       0.996
+C(experimentFolder)[T.hiring-game-2025-12-29-16-52-22]        -0.1094      0.459     -0.238      0.812      -1.016       0.797
+C(experimentFolder)[T.hiring-game-2025-12-29-19-26-31]        -0.2012      0.453     -0.444      0.658      -1.096       0.693
+C(experimentFolder)[T.hiring-game-2025-12-29-21-05-23-one]    -0.5460      0.456     -1.197      0.233      -1.447       0.355
+C(experimentFolder)[T.hiring-game-2025-12-29-21-05-23-two]     0.1701      0.455      0.373      0.709      -0.729       1.069
+C(experimentFolder)[T.hiring-game-2025-12-30-01-58-50]         0.0133      0.468      0.028      0.977      -0.911       0.937
+==============================================================================
+Omnibus:                       15.511   Durbin-Watson:                   2.111
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):                8.340
+Skew:                          -0.319   Prob(JB):                       0.0154
+Kurtosis:                       2.230   Cond. No.                     7.72e+15
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 7.28e-30. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
