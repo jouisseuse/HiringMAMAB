@@ -1,6 +1,7 @@
 # HiringMAMAB
 
-Code and data for the paper: **[Rational Social Learning Makes Group Hiring More Efficient and Biased](https://osf.io/preprints/psyarxiv/nk632_v2)**
+This repository hosts all code and data for the paper: "**Rational Social Learning Makes Group Hiring More Efficient and Biased**" [[link](https://osf.io/preprints/psyarxiv/nk632_v2)].
+
 
 This paper studies how social learning — sharing hiring outcomes across a group — shapes collective decision-making in a multi-agent multi-armed bandit (MAMAB) framework applied to hiring. We show that social learning is a double-edged sword: it accelerates convergence on high-quality candidates (**efficiency gain**) while simultaneously concentrating selections on a narrow set of candidates (**bias increase**). This efficiency–bias tradeoff holds across three types of agents — Bayesian-rational agents, large language models (GPT-4o), and human participants — and reflects a rational, not irrational, consequence of social information sharing.
 
