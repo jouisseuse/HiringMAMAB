@@ -7,7 +7,7 @@ This paper studies how social learning — sharing hiring outcomes across a grou
 
 ## Conceptual Overview
 
-![Figure 1](figures/figure1.pdf)
+![Figure 1](figures/figure1.png)
 
 *Figure 1. Schematic of the MAMAB hiring task. M agents each independently choose one of N candidates (arms) per round and receive binary success/failure feedback. In the **social (communication)** condition, all agents observe the cumulative outcomes of every agent; in the **asocial (non-communication)** condition, each agent sees only its own history. We measure (i) **bias** — how unevenly selections concentrate across candidates (Shannon entropy, equal-productivity condition, all arms p = 0.9) — and (ii) **efficiency** — how quickly groups converge on the best candidate (optimal arm rate and cumulative reward, unequal-productivity condition).*
 
