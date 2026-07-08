@@ -9,8 +9,11 @@ each agent sees only its own history.
 State is checkpointed after every round so interrupted runs can resume.
 
 Usage:
-    Set API_KEY and OPENAI_BASE_URL environment variables, then run:
+    Set OPENAI_API_KEY and optional OPENAI_BASE_URL environment variables, then run:
         python mamab_llm.py
+
+    For a quick tutorial run, you can also paste values into DIRECT_API_KEY and
+    DIRECT_OPENAI_BASE_URL below. Do not commit real API keys.
 """
 
 import json
@@ -19,41 +22,64 @@ import re
 from datetime import datetime
 from typing import Dict, List
 
-import httpx
 import numpy as np
 from openai import OpenAI
 
 MODEL_NAME  = "gpt-4o"
 TEMPERATURE = 0.0
 
+# Option A, recommended:
+#   export OPENAI_API_KEY="your-api-key"
+#   export OPENAI_BASE_URL="https://api.openai.com/v1"  # optional
+#
+# Option B, quick local edit for a tutorial:
+#   paste your API key directly below, then keep this file private.
+DIRECT_API_KEY = ""
+DIRECT_OPENAI_BASE_URL = ""
+
 
 # ── Client initialization ─────────────────────────────────────────────────────
 
 def initialize_clients_sync(num_agents: int) -> List[OpenAI]:
     """Create one OpenAI client per agent."""
-    proxy_url = os.environ.get("HTTPS_PROXY", "http://127.0.0.1:7890")
+    api_key = (
+        os.environ.get("OPENAI_API_KEY")
+        or os.environ.get("API_KEY")
+        or DIRECT_API_KEY.strip()
+    )
+    base_url = (
+        os.environ.get("OPENAI_BASE_URL")
+        or DIRECT_OPENAI_BASE_URL.strip()
+        or None
+    )
+
+    if not api_key:
+        raise RuntimeError(
+            "Missing API key. Set OPENAI_API_KEY in your environment, or paste "
+            "a local key into DIRECT_API_KEY near the top of mamab_llm.py."
+        )
+
     clients = []
     for _ in range(num_agents):
-        clients.append(OpenAI(
-            api_key=os.environ.get("API_KEY"),
-            base_url=os.environ.get("OPENAI_BASE_URL"),
-            http_client=httpx.Client(proxies={"http://": proxy_url, "https://": proxy_url}),
-        ))
+        if base_url:
+            clients.append(OpenAI(api_key=api_key, base_url=base_url))
+        else:
+            clients.append(OpenAI(api_key=api_key))
     return clients
 
 
 # ── Prompt helpers ────────────────────────────────────────────────────────────
 
 def generate_summary(reward_history: Dict) -> str:
-    """Format arm history as a human-readable summary for the LLM prompt."""
+    """Format candidate-group history as a human-readable summary for the LLM prompt."""
     lines = []
     for arm, counts in reward_history.items():
         total = counts["1"] + counts["0"]
         if total > 0:
             avg = counts["1"] / total
-            lines.append(f"A{arm + 1}: {total} times, average reward: {avg:.2f}")
+            lines.append(f"Candidate{arm + 1}: {total} times, average reward: {avg:.2f}")
         else:
-            lines.append(f"A{arm + 1}: 0 times")
+            lines.append(f"Candidate{arm + 1}: 0 times")
     return "\n".join(lines)
 
 
@@ -86,58 +112,63 @@ class Agent:
         if round_idx == 0:
             if communication:
                 content = (
-                    "You are one of several bandit algorithms tasked with maximizing your rewards "
-                    "by playing one of 10 arms labeled A1-A10. Each arm is associated with a "
-                    "Bernoulli distribution that gives a reward of either 0 or 1, with unknown "
-                    "probabilities. Your goal is to maximize your total reward over a series of "
-                    "rounds by deciding which arm to pull next, based on the feedback provided "
+                    "You are one of several hiring managers tasked with maximizing your firm's "
+                    "rewards by hiring one of 10 candidate groups labeled Candidate1-Candidate10. "
+                    "Each candidate group is associated with a Bernoulli distribution that gives "
+                    "reward feedback of either failure(0) or success(1), with unknown probabilities. "
+                    "Your goal is to maximize your firm's total reward over a series of rounds by "
+                    "deciding which candidate group to hire next, based on the feedback provided "
                     "after each round. At each time step, you will receive a summary of the results "
-                    "not only about your own choices and rewards but also about the choices and "
-                    "rewards of other agents. You must decide which arm (A1-A10) to pull, based on "
-                    "your understanding of the rewards so far. Let's think step by step to make sure "
-                    "we make the best decision. After deciding, provide your final answer within the "
-                    "tags <Answer>ARM</Answer> where ARM is one of A1-A10."
+                    "from both your own choices and the choices made by other firms. You must decide "
+                    "which candidate group (Candidate1-Candidate10) to pull, based on your "
+                    "understanding of the rewards so far. Let's think step by step to make sure we "
+                    "make the best decision. After deciding, provide your final answer within the "
+                    "tags <Answer>CANDIDATE</Answer> where CANDIDATE is one of "
+                    "Candidate1-Candidate10."
                 )
             else:
                 content = (
-                    "You are a bandit algorithm tasked with maximizing your rewards by playing one "
-                    "of 10 arms labeled A1-A10. Each arm is associated with a Bernoulli distribution "
-                    "that gives a reward of either 0 or 1, with unknown probabilities. Your goal is "
-                    "to maximize your total reward over a series of rounds by deciding which arm to "
-                    "pull next, based on the feedback provided after each round. At each time step, "
-                    "you will receive a summary of the results from all previous rounds. You must "
-                    "decide which arm (A1-A10) to pull, based on your understanding of the rewards "
-                    "so far. Let's think step by step to make sure we make the best decision. After "
-                    "deciding, provide your final answer within the tags <Answer>ARM</Answer> where "
-                    "ARM is one of A1-A10."
+                    "You are one of several hiring managers tasked with maximizing your firm's "
+                    "rewards by hiring one of 10 candidate groups labeled Candidate1-Candidate10. "
+                    "Each candidate group is associated with a Bernoulli distribution that gives "
+                    "reward feedback of either failure(0) or success(1), with unknown probabilities. "
+                    "Your goal is to maximize your firm's total reward over a series of rounds by "
+                    "deciding which candidate group to hire next, based on the feedback provided "
+                    "after each round. At each time step, you will receive a summary of the results "
+                    "from your own choices. You must decide which candidate group "
+                    "(Candidate1-Candidate10) to pull, based on your understanding of the rewards so "
+                    "far. Let's think step by step to make sure we make the best decision. After "
+                    "deciding, provide your final answer within the tags <Answer>CANDIDATE</Answer> "
+                    "where CANDIDATE is one of Candidate1-Candidate10."
                 )
             self.llm_prompt.append({"role": "system", "content": content})
 
         last_choice, last_reward = self.llm_choices[-1] if self.llm_choices else (0, 1)
         self.llm_prompt.append({
             "role": "assistant",
-            "content": f"A{last_choice + 1}.",
+            "content": f"Candidate{last_choice + 1}.",
         })
 
         summary = generate_summary(global_reward_history if communication else self.reward_history)
         if communication:
             user_content = (
-                f"In the last round, you chose A{last_choice + 1} and the reward is {last_reward}. "
-                f"So far you have played {round_idx + 1} times. Your previous choices and rewards, "
-                f"along with shared information from other agents, are summarized as follows:\n"
+                f"In the last round, you hired Candidate{last_choice + 1} and the reward feedback "
+                f"was {last_reward}. So far you have hired {round_idx + 1} times. Your previous "
+                f"choices and rewards, along with shared information from other firms, are "
+                f"summarized as follows:\n"
                 f"{summary}\n"
-                "Which arm will you choose next? Remember, YOU MUST provide your final answer within "
-                "the tags <Answer>ARM</Answer> where ARM is one of A1-A10. Let's think step by step "
-                "to make the best choice."
+                "Which candidate group will you choose next? Remember, You MUST provide your final "
+                "answer within the tags <Answer>CANDIDATE</Answer> where CANDIDATE is one of "
+                "Candidate1-Candidate10. Let's think step by step to make the best decision."
             )
         else:
             user_content = (
-                f"In the last round, you chose A{last_choice + 1} and the reward is {last_reward}. "
-                f"So far you have played {round_idx + 1} times with your past choices and rewards "
-                f"summarized as follows:\n{summary}\n"
-                "Which arm will you choose next? Remember, YOU MUST provide your final answer within "
-                "the tags <Answer>ARM</Answer> where ARM is one of A1-A10. Let's think step by step "
-                "to make the best choice."
+                f"In the last round, you hired Candidate{last_choice + 1} and the reward feedback "
+                f"was {last_reward}. So far you have hired {round_idx + 1} times. Your previous "
+                f"choices and rewards are summarized as follows:\n{summary}\n"
+                "Which candidate group will you choose next? Remember, You MUST provide your final "
+                "answer within the tags <Answer>CANDIDATE</Answer> where CANDIDATE is one of "
+                "Candidate1-Candidate10. Let's think step by step to make the best decision."
             )
         self.llm_prompt.append({"role": "user", "content": user_content})
 
@@ -155,13 +186,21 @@ class Agent:
 
     @staticmethod
     def _parse_response(response: str) -> int:
-        """Extract arm index (0-based) from LLM response."""
-        match = re.search(r"<Answer>A(10|[1-9])</Answer>", response)
+        """Extract candidate-group index (0-based) from LLM response."""
+        match = re.search(
+            r"<Answer>\s*Candidate\s*(10|[1-9])\.?\s*</Answer>",
+            response,
+            flags=re.IGNORECASE,
+        )
         if not match:
-            match = re.search(r"A(10|[1-9])", response)
+            match = re.search(
+                r"\bCandidate\s*(10|[1-9])\b",
+                response,
+                flags=re.IGNORECASE,
+            )
         if match:
             return int(match.group(1)) - 1
-        raise ValueError(f"No valid arm choice found in response: {response!r}")
+        raise ValueError(f"No valid candidate group found in response: {response!r}")
 
     def update(self, arm_index: int, reward: int):
         self.counts[arm_index] += 1
