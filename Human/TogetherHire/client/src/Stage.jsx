@@ -1,23 +1,23 @@
 import {
   usePlayer,
   usePlayers,
-  useRound,
+  useStage,
+  useGame,
 } from "@empirica/core/player/classic/react";
 import { Loading } from "@empirica/core/player/react";
-import React from "react";
-import { JellyBeans } from "./examples/JellyBeans";
-import { MineSweeper } from "./examples/MineSweeper";
+import React, { useEffect } from "react";
+import { Choice } from "./stages/Choice";
+import { Result } from "./stages/Result";
+import { GameIntroduction } from "./stages/GameIntroduction";
+import { GroupAllocation } from "./stages/GroupAllocation.jsx";
 
 export function Stage() {
   const player = usePlayer();
   const players = usePlayers();
-  const round = useRound();
+  const stage = useStage();
+  const game = useGame();
 
   if (player.stage.get("submit")) {
-    if (players.length === 1) {
-      return <Loading />;
-    }
-
     return (
       <div className="text-center text-gray-400 pointer-events-none">
         Please wait for other player(s).
@@ -25,12 +25,18 @@ export function Stage() {
     );
   }
 
-  switch (round.get("task")) {
-    case "jellybeans":
-      return <JellyBeans />;
-    case "minesweeper":
-      return <MineSweeper />;
+  // 动态加载阶段内容
+  switch (stage.get("name")) {
+    case "introduction":
+      return <GameIntroduction />;
+    case "choice":
+      return <Choice />;
+    case "result":
+      return <Result />;
+    case "Group-Allocation":
+      return <GroupAllocation />;
     default:
-      return <div>Unknown task</div>;
+      return <Loading />;
   }
 }
+

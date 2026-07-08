@@ -5,6 +5,10 @@ import React from "react";
 import { Game } from "./Game";
 import { ExitSurvey } from "./intro-exit/ExitSurvey";
 import { Introduction } from "./intro-exit/Introduction";
+import { MyConsent } from "./intro-exit/MyConsent";
+import { MyLobby } from "./components/MyLobby.jsx";
+import { LoadingOverlay } from "./components/LoadingOverlay.jsx";
+
 
 export default function App() {
   const urlParams = new URLSearchParams(window.location.search);
@@ -14,19 +18,29 @@ export default function App() {
   const url = `${protocol}//${host}/query`;
 
   function introSteps({ game, player }) {
-    return [Introduction];
+    return [
+      (props) => <Introduction {...props}/>, // The global introduction page
+    ];
   }
 
   function exitSteps({ game, player }) {
     return [ExitSurvey];
   }
 
+
   return (
     <EmpiricaParticipant url={url} ns={playerKey} modeFunc={EmpiricaClassic}>
       <div className="h-screen relative">
         <EmpiricaMenu position="bottom-left" />
         <div className="h-full overflow-auto">
-          <EmpiricaContext introSteps={introSteps} exitSteps={exitSteps}>
+          <EmpiricaContext
+            consent={MyConsent}
+            introSteps={introSteps}
+            exitSteps={exitSteps}
+            lobby={MyLobby}                         // ★ 覆盖默认 Lobby
+            connecting={() => <LoadingOverlay />}  // 连接服务器时
+            loading={() => <LoadingOverlay />}     // 拉取游戏数据时
+          >  
             <Game />
           </EmpiricaContext>
         </div>

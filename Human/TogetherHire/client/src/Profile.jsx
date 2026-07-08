@@ -30,7 +30,7 @@ export function Profile() {
       <div className="flex space-x-3 items-center justify-end">
         <div className="flex flex-col items-center">
           <div className="text-xs font-semibold uppercase tracking-wide leading-none text-gray-400">
-            Score
+            Bonus{/* Score */}
           </div>
           <div className="text-3xl font-semibold !leading-none tabular-nums">
             {score}

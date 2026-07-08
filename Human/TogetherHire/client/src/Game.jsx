@@ -17,11 +17,11 @@ export function Game() {
         </div>
       </div>
 
-      {playerCount > 1 && (
+      {/* {playerCount > 1 && (
         <div className="h-full w-128 border-l flex justify-center items-center">
           <Chat scope={game} attribute="chat" />
         </div>
-      )}
+      )} */}
     </div>
   );
 }
